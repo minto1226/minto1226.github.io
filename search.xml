@@ -10,7 +10,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012.jpg"
+                     data-src="20241012.jpg"
                      width=500px
                 >
 </figure>
@@ -35,18 +35,18 @@
 <h3 id="常総市地域交流センター"><a class="header-anchor" href="#常総市地域交流センター"></a>常総市地域交流センター</h3>
 <p>從遠處看還以為意外多找到一座城，結果到了才發現是那邊的交流中心，真的蓋得很漂亮。</p>
 <figure class="image-caption">
-<img  
+    <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (2).jpg"
-                     width=500px
+                     data-src="20241012 (2).jpg"
+                      width="500"
                 >
 </figure>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (27).jpg"
+                     data-src="20241012 (27).jpg"
                      width=300px
                 >
 </figure>
@@ -55,8 +55,8 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (3).jpg"
-                     width=500px
+                     data-src="20241012 (3).jpg"
+                      width=500px
                 >
 <figcaption>經過時發現這條叫將門川，所以就想會不會有跟平將門有關的點，結果還真找到了</figcaption>
 </figure>
@@ -64,7 +64,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (5).jpg"
+                     data-src="20241012 (5).jpg"
                      width=300px
                 >
 </figure>
@@ -72,7 +72,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (4).jpg"
+                     data-src="20241012 (4).jpg"
                      width=500px
                 >
 <figcaption>地點在住宅區內，不清楚的話還以為是個小公園，我想會知道這邊的大概也就附近的居民了吧</figcaption>
@@ -84,21 +84,21 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (6).jpg"
+                     data-src="20241012 (6).jpg"
                      width=500px
                 >
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (8).jpg"
+                     data-src="20241012 (8).jpg"
                      width=500px
                 >
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (7).jpg"
+                     data-src="20241012 (7).jpg"
                      width=300px
                 >
 </figure>
@@ -108,7 +108,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (9).jpg"
+                     data-src="20241012 (9).jpg"
                      width=500px
                 >
 </figure>
@@ -160,7 +160,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (10).jpg"
+                     data-src="20241012 (10).jpg"
                      width=300px
                 >
 <figcaption>二層櫓</figcaption>
@@ -175,7 +175,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (11).jpg"
+                     data-src="20241012 (11).jpg"
                      width=500px
                 >
 <figcaption>関宿城薬医門</figcaption>
@@ -190,7 +190,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (12).jpg"
+                     data-src="20241012 (12).jpg"
                      width=500px
                 >
 <figcaption>主殿</figcaption>
@@ -205,7 +205,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (13).jpg"
+                     data-src="20241012 (13).jpg"
                      width=300px
                 >
 <figcaption>井樓矢倉</figcaption>
@@ -221,13 +221,13 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (14).jpg"
+                     data-src="20241012 (14).jpg"
                      width=500px
                 >
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (15).jpg"
+                     data-src="20241012 (15).jpg"
                      width=500px
                 >
 <figcaption>觀音堂</figcaption>
@@ -251,7 +251,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (16).jpg"
+                     data-src="20241012 (16).jpg"
                      width=300px
                 >
 <figcaption>櫓門與橋</figcaption>
@@ -265,7 +265,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (17).jpg"
+                     data-src="20241012 (17).jpg"
                      width=500px
                 >
 </figure>
@@ -285,7 +285,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (18).jpg"
+                     data-src="20241012 (18).jpg"
                      width=500px
                 >
 <figcaption>逆井城荒涼到連管理員或賣店都沒有，相比下關宿城就熱鬧多了</figcaption>
@@ -301,7 +301,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (19).jpg"
+                     data-src="20241012 (19).jpg"
                      width=500px
                 >
 <figcaption>博物館的地圖，挖哩，我在寫紀錄的這一刻才發現他還有後院</figcaption>
@@ -310,7 +310,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (20).jpg"
+                     data-src="20241012 (20).jpg"
                      width=500px
                 >
 <figcaption>附近的水壩</figcaption>
@@ -319,7 +319,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (21).jpg"
+                     data-src="20241012 (21).jpg"
                      width=300px
                 >
 <figcaption>用來清除水地淤泥的船</figcaption>
@@ -328,7 +328,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (22).jpg"
+                     data-src="20241012 (22).jpg"
                      width=300px
                 >
 <figcaption>沒記錯的話應該是跟上周土浦城博物館看到的是同一艘船(?</figcaption>
@@ -337,7 +337,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (23).jpg"
+                     data-src="20241012 (23).jpg"
                      width=300px
                 >
 <figcaption>不知道為什麼要放一隻超大的雞在這</figcaption>
@@ -351,7 +351,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (24).jpg"
+                     data-src="20241012 (24).jpg"
                      width=300px
                 >
 </figure>
@@ -359,7 +359,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (25).jpg"
+                     data-src="20241012 (25).jpg"
                      width=300px
                 >
 </figure>
@@ -367,7 +367,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (26).jpg"
+                     data-src="20241012 (26).jpg"
                      width=300px
                 >
 </figure>
@@ -378,14 +378,14 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20241012 (28).jpg"
+                     data-src="20241012 (28).jpg"
                      width=600px
                 >
 </figure>
 ]]></content>
       <tags>
         <tag>交換</tag>
-        <tag>旅遊</tag>
+        <tag>自行車</tag>
       </tags>
   </entry>
   <entry>
@@ -402,7 +402,15 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928.jpg"
+                     data-src="20241012.jpg"
+                     width=500px
+                >
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20240928.jpg"
                      width=500px
                 >
 <figcaption>只有周六才有吃到飽喔，其他天只有一般的定食，不過也比餐廳便宜，也推薦試試看。</figcaption>
@@ -411,7 +419,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928 (2).jpg"
+                     data-src="20240928 (2).jpg"
                      width=500px
                 >
 <figcaption>除了碗裡的三種鮪魚外，還有醃漬過跟應該是燙過一下的兩種生魚片，此外，白飯、沙拉跟味噌湯也是可以續的，但壽司不能</figcaption>
@@ -424,7 +432,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928 (4).jpg"
+                     data-src="20240928 (4).jpg"
                      width=250px
                 >
 </figure>
@@ -432,7 +440,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928 (9).jpg"
+                     data-src="20240928 (9).jpg"
                      width=500px
                 >
 </figure>
@@ -440,7 +448,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928 (3).jpg"
+                     data-src="20240928 (3).jpg"
                      width=500px
                 >
 <figcaption>江戶時期的土浦城主ー土屋家的佩刀</figcaption>
@@ -449,7 +457,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928 (3).jpg"
+                     data-src="20240928 (3).jpg"
                      width=500px
                 >
 <figcaption>當時用來運輸用的主要船隻「高瀨船」</figcaption>
@@ -472,7 +480,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928 (11).jpg"
+                     data-src="20240928 (11).jpg"
                      width=500px
                 >
 <figcaption>博物館跟城址間的橋，周邊的護城河也有進行復原</figcaption>
@@ -536,7 +544,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928 (5).jpg"
+                     data-src="20240928 (5).jpg"
                      width=500px
                 >
 </figure>
@@ -544,7 +552,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928 (7).jpg"
+                     data-src="20240928 (7).jpg"
                      width=500px
                 >
 <figcaption>城牆內部</figcaption>
@@ -553,7 +561,7 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/20240928 (6).jpg"
+                     data-src="20240928 (6).jpg"
                      width=500px
                 >
 <figcaption>東櫓內部有開放參觀，入場票與博物館共用同一張</figcaption>
@@ -586,7 +594,7 @@
 ]]></content>
       <tags>
         <tag>交換</tag>
-        <tag>旅遊</tag>
+        <tag>自行車</tag>
       </tags>
   </entry>
   <entry>
@@ -841,7 +849,7 @@
 ]]></content>
       <tags>
         <tag>交換</tag>
-        <tag>旅遊</tag>
+        <tag>自行車</tag>
       </tags>
   </entry>
 </search>
