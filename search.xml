@@ -402,14 +402,6 @@
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241012.jpg"
-                     width=500px
-                >
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
                      data-src="20240928.jpg"
                      width=500px
                 >
