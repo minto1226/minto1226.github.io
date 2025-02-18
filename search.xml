@@ -1,42 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>課程小遊戲--紙相撲</title>
-    <url>/2024/11/20/1120-sumo/</url>
-    <content><![CDATA[<p>筑波的日文課有分成幾種，像是読み書く（讀與寫）、話す聞く（聽與說）、文法等。</p>
-<p>而其中有堂名為演習的課，老師會先訂一個主題並介紹，學生們再以這個主題來製作報告並向其他人介紹。像是上次的主題是&quot;食文化&quot;，大家就介紹自己國家的料理。而這次是上個主題剛結束，準備進行下個主題前的過渡期，老師介紹了下相撲文化後拿出了一個很有趣的玩具－紙相撲，簡單來說就是每個人選一隻角色，並在紙做的迷你擂台上進行相撲。</p>
+    <title>筑波大学園祭</title>
+    <url>/2024/11/03/gakuensai/</url>
+    <content><![CDATA[<p>這兩天（11/3,4）是筑波大學創校第50周年的學園祭－雙峰祭。雖然想要兩天都體驗到，但朋友的交換學校－東科大也是這兩天學園祭，於是只能各取一天參觀，有些可惜。</p>
+<h3 id="筑波大學"><a class="header-anchor" href="#筑波大學"></a>筑波大學</h3>
+<p>筑波大學位於茨城縣筑波市，於1970繼承東京教育大學的資產創立，是日本面積第二大的大學校園，僅次於九州大學。目前為止已有三位諾貝爾獎得主曾在此任職。</p>
+
+  <div class="note p-4 mb-4 rounded-small red">
+    <p>東京教育大學包含了東京文理科大學、東京高等師範學校、東京農業教育専門學校、東京体育専門學校。所以這幾間都可以說是筑波大學的前身。</p>
+
+  </div>
+<h3 id="校徽"><a class="header-anchor" href="#校徽"></a>校徽</h3>
+<p>筑波山又名<strong>紫峰</strong>（しほう），而筑波大學也以此紫色（#6600CC）最為校徽的顏色。</p>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="01.jpg"
+                     data-src="Logo.png"
+                     width=300px
+                >
+</figure>
+筑波大學的校徽是「五三桐葉型」。起源可以追溯到1888年11月，當時東京高等師範學校附屬小學和中學（後來的筑波大學附屬小學及附屬中學、高中）首次將其制定為校徽。這是因為明治天皇行幸時，曾指示以皇室御紋章「五七桐章」作為校徽。然而，考慮到直接使用可能被視為對皇室不敬，因此改為「五三桐章」。
+隨後，作為其母體的東京高師也在1903年採用了這一設計，並沿用至1949年製作的東京教育大學學生徽章。
+<h3 id="雙峰祭"><a class="header-anchor" href="#雙峰祭"></a>雙峰祭</h3>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241103.jpg"
                      width=300px
                 >
 <figcaption>
-大家使用的角色，我看這紙片人也是風韻留存阿(誤
+在開始的前幾天就會在校外街上各處看到旗幟了
 </figcaption>
 </figure>
-<h3 id="玩法介紹"><a class="header-anchor" href="#玩法介紹"></a>玩法介紹</h3>
-<p>雙方將自己的角色於擂台的中間靠在一起，接著開始敲擊擂台上面對自己的兩個角落，將對方角色敲出範圍即勝利。因為敲擊造成的晃動方向並不絕對，所以不見得敲得越快或越大力就會贏，可能比較看運氣(?</p>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>為什麼叫雙峰祭？</p>
+
+    </div>
+    <div class="notel-content">
+      <p>築波山有兩座山峰－<strong>男體山</strong>與<strong>女體山</strong>，而學園祭也就以此來取名。</p>
+
+    </div>
+  </div>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="02.jpg"
+                     data-src="20241103 (2).jpg"
                      width=500px
                 >
 <figcaption>
-左邊的是老師讓大家想的角色名字
+除了學生也有不少校外人士，聽從東京來的朋友說，從筑波車站過來的巴士即使加開了班次，筑波車站的巴士站也還是一堆人
 </figcaption>
 </figure>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="03.jpg"
+                     data-src="20241103 (3).jpg"
+                     width=300px
+                >
+<figcaption>
+介紹手冊居然要錢（惱
+</figcaption>
+</figure>
+
+  <div class="note-large blue">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>筑ろう</p>
+
+    </div>
+    <div class="notel-content">
+      <p>本次雙峰祭的主題是「筑（つく）ろう」，與「作（つく）ろう」發音相同。意思是「一起打造最好的雙峰祭吧！」。日本人也很愛玩諧音梗阿。</p>
+
+    </div>
+  </div>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241103 (4).jpg"
                      width=500px
                 >
-</figure>]]></content>
+<figcaption>
+被盤了一波，應該吃飽再來的
+</figcaption>
+</figure>
+<p>除了食物攤販，教室內也有各社團的擺攤，大家的展示內容都很有趣。像新聞社出版的校刊超級精細，根本看不出是學生作的。</p>
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241103 (11).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241103 (12).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241103 (6).jpg"
+                     width=300px
+                >
+<figcaption>
+有樂隊專門演奏孤獨搖滾的歌，左邊那位還穿小孤獨的衣服
+</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241103 (7).jpg"
+                     width=300px
+                >
+<figcaption>
+筑波大學有偶像部跟應援部，所以可以看到偶像部在上面跳舞，應援部在下面應援
+</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241103 (10).png"
+                     width=300px
+                >
+<figcaption>
+聽了一整天的歌大家也想秀一波了，於是就在KTV為今天畫上句點
+</figcaption>
+</figure>
+<h3 id="總結"><a class="header-anchor" href="#總結"></a>總結</h3>
+<p>這還是第一次體驗日本的學園祭，雖然以前常常在動畫中看到，但果然實際體驗帶來的興奮感還是動畫不可比擬的。雖然在台灣也有園遊會這樣類似的活動，但還是不如日本這樣大家一起努力打事情做到這樣高完成度的程度，更加期待明天東科大的學園祭了。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>生活</tag>
@@ -206,9 +313,129 @@
                      width=500px
                 >
 </figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>其他</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>課程小遊戲--紙相撲</title>
+    <url>/2024/11/20/1120-sumo/</url>
+    <content><![CDATA[<p>筑波的日文課有分成幾種，像是読み書く（讀與寫）、話す聞く（聽與說）、文法等。</p>
+<p>而其中有堂名為演習的課，老師會先訂一個主題並介紹，學生們再以這個主題來製作報告並向其他人介紹。像是上次的主題是&quot;食文化&quot;，大家就介紹自己國家的料理。而這次是上個主題剛結束，準備進行下個主題前的過渡期，老師介紹了下相撲文化後拿出了一個很有趣的玩具－紙相撲，簡單來說就是每個人選一隻角色，並在紙做的迷你擂台上進行相撲。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="01.jpg"
+                     width=300px
+                >
+<figcaption>
+大家使用的角色，我看這紙片人也是風韻留存阿(誤
+</figcaption>
+</figure>
+<h3 id="玩法介紹"><a class="header-anchor" href="#玩法介紹"></a>玩法介紹</h3>
+<p>雙方將自己的角色於擂台的中間靠在一起，接著開始敲擊擂台上面對自己的兩個角落，將對方角色敲出範圍即勝利。因為敲擊造成的晃動方向並不絕對，所以不見得敲得越快或越大力就會贏，可能比較看運氣(?</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="02.jpg"
+                     width=500px
+                >
+<figcaption>
+左邊的是老師讓大家想的角色名字
+</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="03.jpg"
+                     width=500px
+                >
+</figure>]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>交換</tag>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在日本看牙醫&amp;洗牙</title>
+    <url>/2024/11/22/haisya/</url>
+    <content><![CDATA[<p>最近晚上睡覺時牙齒都會突然很痛，雖然除此之外都沒有影響，但保險起見還是決定去看一下牙醫。<br>
+雖然日本也有健保，但與台灣不同，日本只減免7成的醫療費用，所以基本上都會比台灣貴。</p>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>熱知識</p>
+
+    </div>
+    <div class="notel-content">
+      <p>基本上只要是持有留學簽證的外國人都必須申請健保，申請後會收到一封信和繳費通知，信中會黏一張紙，那就是你的背保險證明。<br>
+大概會長這樣：</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="images.jfif"
+                     width=500px
+                >
+</figure>
+<p>只要持有保險證就能享有與日本人相同的70%的費用減免</p>
+
+    </div>
+  </div>
+<h3 id="預約"><a class="header-anchor" href="#預約"></a>預約</h3>
+<p>跟台灣一樣，大部分都還是需要先在電話預約，一般在這時對方會先問你大概的病情。</p>
+
+  <div class="note p-4 mb-4 rounded-small yellow">
+    <p>所幸有認識住這邊的日本人，就問了對方有沒有推薦的診所，結果對方就順帶幫我預約了，真是大大大感謝</p>
+
+  </div>
+<h3 id="就診"><a class="header-anchor" href="#就診"></a>就診</h3>
+<p>與台灣相同，第一次就診時需要填寫初診相關資料，隨後就等待診所的人員叫號。<br>
+進去後，醫生先是這邊敲敲，那邊戳戳，檢查有沒有蛀牙，接著照了X光看看是不是內部的問題。意外的是，我牙齒是沒有問題的，醫生說可能是其他部位神經的問題，需要去耳鼻喉科看看。</p>
+
+  <div class="note p-4 mb-4 rounded-small yellow">
+    <p>因為知道我是台灣人，醫生在說到比較難的詞時，會把漢字寫下來讓我好理解，原本還擔心對話會進行不下去，這下安心多了</p>
+
+  </div>
+<p>接著醫生輕輕一抹，從牙齒上扣了一層牙菌斑下來。「你這牙菌斑有點多啊，刷牙不認真喔，順便洗個牙吧。」，出於害羞跟對日本人洗牙的好奇心，就順便在這邊洗了牙。</p>
+<h3 id="洗牙"><a class="header-anchor" href="#洗牙"></a>洗牙</h3>
+<p>在日本似乎都不是由醫生，而是由「歯科衛生士」來洗牙。而且與台灣不同，這邊是用鉤子慢慢把牙菌斑扣掉，最後再用牙刷幫你認真刷一次。</p>
+
+  <div class="note p-4 mb-4 rounded-small yellow">
+    <p>因為是一個一個慢慢刮，所以花的時間比較久，刮的感覺超怪<br>
+而且這邊沒有台灣那種吸口水的工具，害我口水一直快要流出來</p>
+
+  </div>
+<h3 id="結帳"><a class="header-anchor" href="#結帳"></a>結帳</h3>
+<p>雖然有健保只需要付三成，但這次（洗牙跟X光）的費用就要4130（大概$800），真的是噴了一大筆錢啊…</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="104595.jpg"
+                     width=500px
+                >
+<figcaption>
+還有送個小年曆，不無小補(?
+</figcaption>
+</figure>]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>交換</tag>
+        <tag>生活</tag>
       </tags>
   </entry>
   <entry>
@@ -396,229 +623,9 @@
 <h3 id="總結"><a class="header-anchor" href="#總結"></a>總結</h3>
 <p>今天也是筑波學園祭的最後一天，似乎還有放煙火，雖然沒看到有點可惜。但欣賞其他學校的學園祭也是收穫了不同的驚喜，真是不得不感嘆日本的學園祭阿，真的是太厲害了。</p>
 ]]></content>
-      <tags>
-        <tag>交換</tag>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>筑波大学園祭</title>
-    <url>/2024/11/03/gakuensai/</url>
-    <content><![CDATA[<p>這兩天（11/3,4）是筑波大學創校第50周年的學園祭－雙峰祭。雖然想要兩天都體驗到，但朋友的交換學校－東科大也是這兩天學園祭，於是只能各取一天參觀，有些可惜。</p>
-<h3 id="筑波大學"><a class="header-anchor" href="#筑波大學"></a>筑波大學</h3>
-<p>筑波大學位於茨城縣筑波市，於1970繼承東京教育大學的資產創立，是日本面積第二大的大學校園，僅次於九州大學。目前為止已有三位諾貝爾獎得主曾在此任職。</p>
-
-  <div class="note p-4 mb-4 rounded-small red">
-    <p>東京教育大學包含了東京文理科大學、東京高等師範學校、東京農業教育専門學校、東京体育専門學校。所以這幾間都可以說是筑波大學的前身。</p>
-
-  </div>
-<h3 id="校徽"><a class="header-anchor" href="#校徽"></a>校徽</h3>
-<p>筑波山又名<strong>紫峰</strong>（しほう），而筑波大學也以此紫色（#6600CC）最為校徽的顏色。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="Logo.png"
-                     width=300px
-                >
-</figure>
-筑波大學的校徽是「五三桐葉型」。起源可以追溯到1888年11月，當時東京高等師範學校附屬小學和中學（後來的筑波大學附屬小學及附屬中學、高中）首次將其制定為校徽。這是因為明治天皇行幸時，曾指示以皇室御紋章「五七桐章」作為校徽。然而，考慮到直接使用可能被視為對皇室不敬，因此改為「五三桐章」。
-隨後，作為其母體的東京高師也在1903年採用了這一設計，並沿用至1949年製作的東京教育大學學生徽章。
-<h3 id="雙峰祭"><a class="header-anchor" href="#雙峰祭"></a>雙峰祭</h3>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241103.jpg"
-                     width=300px
-                >
-<figcaption>
-在開始的前幾天就會在校外街上各處看到旗幟了
-</figcaption>
-</figure>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>為什麼叫雙峰祭？</p>
-
-    </div>
-    <div class="notel-content">
-      <p>築波山有兩座山峰－<strong>男體山</strong>與<strong>女體山</strong>，而學園祭也就以此來取名。</p>
-
-    </div>
-  </div>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241103 (2).jpg"
-                     width=500px
-                >
-<figcaption>
-除了學生也有不少校外人士，聽從東京來的朋友說，從筑波車站過來的巴士即使加開了班次，筑波車站的巴士站也還是一堆人
-</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241103 (3).jpg"
-                     width=300px
-                >
-<figcaption>
-介紹手冊居然要錢（惱
-</figcaption>
-</figure>
-
-  <div class="note-large blue">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>筑ろう</p>
-
-    </div>
-    <div class="notel-content">
-      <p>本次雙峰祭的主題是「筑（つく）ろう」，與「作（つく）ろう」發音相同。意思是「一起打造最好的雙峰祭吧！」。日本人也很愛玩諧音梗阿。</p>
-
-    </div>
-  </div>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241103 (4).jpg"
-                     width=500px
-                >
-<figcaption>
-被盤了一波，應該吃飽再來的
-</figcaption>
-</figure>
-<p>除了食物攤販，教室內也有各社團的擺攤，大家的展示內容都很有趣。像新聞社出版的校刊超級精細，根本看不出是學生作的。</p>
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241103 (11).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241103 (12).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241103 (6).jpg"
-                     width=300px
-                >
-<figcaption>
-有樂隊專門演奏孤獨搖滾的歌，左邊那位還穿小孤獨的衣服
-</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241103 (7).jpg"
-                     width=300px
-                >
-<figcaption>
-筑波大學有偶像部跟應援部，所以可以看到偶像部在上面跳舞，應援部在下面應援
-</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241103 (10).png"
-                     width=300px
-                >
-<figcaption>
-聽了一整天的歌大家也想秀一波了，於是就在KTV為今天畫上句點
-</figcaption>
-</figure>
-<h3 id="總結"><a class="header-anchor" href="#總結"></a>總結</h3>
-<p>這還是第一次體驗日本的學園祭，雖然以前常常在動畫中看到，但果然實際體驗帶來的興奮感還是動畫不可比擬的。雖然在台灣也有園遊會這樣類似的活動，但還是不如日本這樣大家一起努力打事情做到這樣高完成度的程度，更加期待明天東科大的學園祭了。</p>
-]]></content>
-      <tags>
-        <tag>交換</tag>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在日本看牙醫&amp;洗牙</title>
-    <url>/2024/11/22/haisya/</url>
-    <content><![CDATA[<p>最近晚上睡覺時牙齒都會突然很痛，雖然除此之外都沒有影響，但保險起見還是決定去看一下牙醫。<br>
-雖然日本也有健保，但與台灣不同，日本只減免7成的醫療費用，所以基本上都會比台灣貴。</p>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>熱知識</p>
-
-    </div>
-    <div class="notel-content">
-      <p>基本上只要是持有留學簽證的外國人都必須申請健保，申請後會收到一封信和繳費通知，信中會黏一張紙，那就是你的背保險證明。<br>
-大概會長這樣：</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="images.jfif"
-                     width=500px
-                >
-</figure>
-<p>只要持有保險證就能享有與日本人相同的70%的費用減免</p>
-
-    </div>
-  </div>
-<h3 id="預約"><a class="header-anchor" href="#預約"></a>預約</h3>
-<p>跟台灣一樣，大部分都還是需要先在電話預約，一般在這時對方會先問你大概的病情。</p>
-
-  <div class="note p-4 mb-4 rounded-small yellow">
-    <p>所幸有認識住這邊的日本人，就問了對方有沒有推薦的診所，結果對方就順帶幫我預約了，真是大大大感謝</p>
-
-  </div>
-<h3 id="就診"><a class="header-anchor" href="#就診"></a>就診</h3>
-<p>與台灣相同，第一次就診時需要填寫初診相關資料，隨後就等待診所的人員叫號。<br>
-進去後，醫生先是這邊敲敲，那邊戳戳，檢查有沒有蛀牙，接著照了X光看看是不是內部的問題。意外的是，我牙齒是沒有問題的，醫生說可能是其他部位神經的問題，需要去耳鼻喉科看看。</p>
-
-  <div class="note p-4 mb-4 rounded-small yellow">
-    <p>因為知道我是台灣人，醫生在說到比較難的詞時，會把漢字寫下來讓我好理解，原本還擔心對話會進行不下去，這下安心多了</p>
-
-  </div>
-<p>接著醫生輕輕一抹，從牙齒上扣了一層牙菌斑下來。「你這牙菌斑有點多啊，刷牙不認真喔，順便洗個牙吧。」，出於害羞跟對日本人洗牙的好奇心，就順便在這邊洗了牙。</p>
-<h3 id="洗牙"><a class="header-anchor" href="#洗牙"></a>洗牙</h3>
-<p>在日本似乎都不是由醫生，而是由「歯科衛生士」來洗牙。而且與台灣不同，這邊是用鉤子慢慢把牙菌斑扣掉，最後再用牙刷幫你認真刷一次。</p>
-
-  <div class="note p-4 mb-4 rounded-small yellow">
-    <p>因為是一個一個慢慢刮，所以花的時間比較久，刮的感覺超怪<br>
-而且這邊沒有台灣那種吸口水的工具，害我口水一直快要流出來</p>
-
-  </div>
-<h3 id="結帳"><a class="header-anchor" href="#結帳"></a>結帳</h3>
-<p>雖然有健保只需要付三成，但這次（洗牙跟X光）的費用就要4130（大概$800），真的是噴了一大筆錢啊…</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="104595.jpg"
-                     width=500px
-                >
-<figcaption>
-還有送個小年曆，不無小補(?
-</figcaption>
-</figure>]]></content>
-      <tags>
-        <tag>交換</tag>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>JAXA 特別公開</title>
-    <url>/2024/10/26/jaxa/</url>
-    <content><![CDATA[]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>生活</tag>
@@ -703,9 +710,289 @@
                      width=500px
                 >
 </figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>其他</category>
+      </categories>
       <tags>
         <tag>交換</tag>
-        <tag>生活</tag>
+        <tag>旅遊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>霞ヶ浦</title>
+    <url>/2024/10/19/kasumigaura/</url>
+    <content><![CDATA[<h2 id="出發"><a class="header-anchor" href="#出發"></a>出發</h2>
+<p>早上吃的泡麵裡有一包乾燥的蔬菜包，一般來說會在倒熱水前加入來軟化蔬菜，之後將湯倒掉後再加入醬汁。<br>
+但本原始人第一次看到，在加入醬汁時才把蔬菜放進去。結果蔬菜又乾又硬，只能含淚吃完。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019.jpg"
+                     width=500px
+                >
+</figure>
+<h2 id="霞ヶ浦"><a class="header-anchor" href="#霞ヶ浦"></a>霞ヶ浦</h2>
+<p>大概1hr左右抵達霞ヶ浦的西邊</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (2).jpg"
+                     width=300px
+                >
+</figure>
+<br/>
+
+  <div class="note-large green">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>霞ヶ浦介紹</p>
+
+    </div>
+    <div class="notel-content">
+      <p>霞ヶ浦位於茨城縣南東部，面積僅次於琵琶湖，為日本第二大湖。湖泊面積為220平方公里，佔茨城縣的快35%。<br>
+除了各種水上活動外，其最有名的就是沿湖的單車道，全長約180公里，除了湖的周邊外還有延伸至筑波山以及北浦。</p>
+
+    </div>
+  </div>
+<h3 id="小插曲"><a class="header-anchor" href="#小插曲"></a>小插曲</h3>
+<p>在確認路線時，旁邊來了個掃地的阿伯，想說小聊一下，但阿伯直接開始介紹這邊的歷史跟他去台灣的經歷，過了快1hr後才結束。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (3).jpg"
+                     width=500px
+                >
+<figcaption>目前遇到的阿伯阿姨都超熱情</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (4).jpg"
+                     width=500px
+                >
+<figcaption>再次出發</figcaption>
+</figure>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>為什麼叫霞ヶ「浦」而不是霞ヶ「湖」？</p>
+
+    </div>
+    <div class="notel-content">
+      <p>因為霞ヶ浦在以前並不是湖而是入海口，隨著海平面下降以及沉積物堆積而與大海分開形成湖泊。</p>
+
+    </div>
+  </div>
+剛出發時想說既然都看得到湖對岸那距離應該也不遠吧
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (5).jpg"
+                     width=500px
+                >
+</figure>
+直到我看到了這個缺口
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (6).jpg"
+                     width=500px
+                >
+</figure>
+簡單用圖來說就是這個樣子
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (7).jpg"
+                     width=500px
+                >
+</figure>
+<br/>
+<br/>
+<br/>
+一開始的阿伯還推薦了幾個視野不錯的私人景點，應該是間當地人才會來的廟宇。
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (8).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (9).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (10).jpg"
+                     width=500px
+                >
+<figcaption>從這裏的展望台看出去的樣子 視野確實開闊 可惜天氣不太好</figcaption>
+</figure>
+<h3 id="虹の塔"><a class="header-anchor" href="#虹の塔"></a>虹の塔</h3>
+<p>從起點出發大概已經騎了2hr，過橋後就是霞ヶ浦有名的<a herf="https://maps.app.goo.gl/5cBNvu8X1cwSaLDi8">瞭望塔</a>。<br>
+旁邊還有個迷你動物園，因為有點來不及所以就先pass了</p>
+<p>旁邊的廣場似乎在辦毛小孩市集(? 除了飼料外也有不少人賣毛小孩用的小工具。</p>
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (11).jpg"
+                      border=0 style="height:350px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (12).jpg"
+                      border=0 style="height:350px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (13).jpg"
+                      border=0 style="height:350px;"
+                ></td>
+</tr></table>
+<p>進入瞭望塔需要400塊，但風景也確實漂亮</p>
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (14).jpg"
+                      border=0 style="height:350px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (15).jpg"
+                      border=0 style="height:350px;"
+                ></td>
+</tr></table>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (16).jpg"
+                     width=500px
+                >
+<figcaption>繼續前進!</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (17).jpg"
+                     width=500px
+                >
+<figcaption></figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (18).jpg"
+                     width=500px
+                >
+<figcaption>早上看天空還陰陰的 幸好過了中午後太陽就出來</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (19).jpg"
+                     width=500px
+                >
+<figcaption>霞ヶ浦也是重要的捕魚地點 每隔一段距離就能看到這樣的船隻停靠處</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (20).jpg"
+                     width=300px
+                >
+<figcaption>在茨城真的是無論哪裡都是一堆田</figcaption>
+</figure>
+<h3 id="天王崎"><a class="header-anchor" href="#天王崎"></a>天王崎</h3>
+<p>繼續騎了2hr總算抵達了湖的另一側，開始略顯疲態了。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (21).jpg"
+                     width=500px
+                >
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (22).jpg"
+                     width=500px
+                >
+<figcaption>幾天後似乎是祭典 大家正在彩排 雖然跟陣頭抬神轎很像但從兩邊感受到的氣氛完全不一樣</figcaption>
+</figure>
+<h3 id="北利根橋"><a class="header-anchor" href="#北利根橋"></a>北利根橋</h3>
+<p>繼續騎約1hr抵達最南邊的北利根橋，這邊再繼續往下騎就能抵達鹿嶋市的鹿島神宮總本社，但我那時滿腦子只想回家，完全沒打算過去看看。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (23).jpg"
+                     width=500px
+                >
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (24).jpg"
+                     width=300px
+                >
+<figcaption>已經看田看到視覺疲勞了</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (25).jpg"
+                     width=500px
+                >
+<figcaption>途中下了一小陣雨臨時找了個公車站躲雨</figcaption>
+<figcaption>但這公車站怎麼愈看愈像下雨時會觸發某些特殊劇情的地方啊</figcaption>
+</figure>
+最後，因為晚上還有其他安排，時間不夠只能放棄騎回起點再回家的計畫，直接回去。
+<h2 id="總結"><a class="header-anchor" href="#總結"></a>總結</h2>
+<p>本次大概騎了85km左右，雖然確實是比前次疲累，但時間夠的話我想應該也能騎完全程。所幸體力也是有在稍微成長，希望有天能完成來回大洗的目標。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241019 (26).jpg"
+                     width=300px
+                >
+<figcaption>霞（kasumi）ヶ浦旁的kasumi</figcaption>
+</figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>交換</tag>
+        <tag>旅遊</tag>
+        <tag>自行車</tag>
       </tags>
   </entry>
   <entry>
@@ -1119,6 +1406,10 @@
 網咖雖然有些瑕疵，但這樣的價格已經很超值了，終於明白日本人為什麼那麼愛去網咖了。<br>
 接下來就要離開水戶前往大洗了，敬請期待！</p>
 ]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>水戶旅</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
@@ -1528,290 +1819,22 @@
                 >
 <figcaption>夜晚的水戶車站</figcaption>
 </figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>水戶旅</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
       </tags>
   </entry>
   <entry>
-    <title>霞ヶ浦</title>
-    <url>/2024/10/19/kasumigaura/</url>
-    <content><![CDATA[<h2 id="出發"><a class="header-anchor" href="#出發"></a>出發</h2>
-<p>早上吃的泡麵裡有一包乾燥的蔬菜包，一般來說會在倒熱水前加入來軟化蔬菜，之後將湯倒掉後再加入醬汁。<br>
-但本原始人第一次看到，在加入醬汁時才把蔬菜放進去。結果蔬菜又乾又硬，只能含淚吃完。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019.jpg"
-                     width=500px
-                >
-</figure>
-<h2 id="霞ヶ浦"><a class="header-anchor" href="#霞ヶ浦"></a>霞ヶ浦</h2>
-<p>大概1hr左右抵達霞ヶ浦的西邊</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (2).jpg"
-                     width=300px
-                >
-</figure>
-<br/>
-
-  <div class="note-large green">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>霞ヶ浦介紹</p>
-
-    </div>
-    <div class="notel-content">
-      <p>霞ヶ浦位於茨城縣南東部，面積僅次於琵琶湖，為日本第二大湖。湖泊面積為220平方公里，佔茨城縣的快35%。<br>
-除了各種水上活動外，其最有名的就是沿湖的單車道，全長約180公里，除了湖的周邊外還有延伸至筑波山以及北浦。</p>
-
-    </div>
-  </div>
-<h3 id="小插曲"><a class="header-anchor" href="#小插曲"></a>小插曲</h3>
-<p>在確認路線時，旁邊來了個掃地的阿伯，想說小聊一下，但阿伯直接開始介紹這邊的歷史跟他去台灣的經歷，過了快1hr後才結束。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (3).jpg"
-                     width=500px
-                >
-<figcaption>目前遇到的阿伯阿姨都超熱情</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (4).jpg"
-                     width=500px
-                >
-<figcaption>再次出發</figcaption>
-</figure>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>為什麼叫霞ヶ「浦」而不是霞ヶ「湖」？</p>
-
-    </div>
-    <div class="notel-content">
-      <p>因為霞ヶ浦在以前並不是湖而是入海口，隨著海平面下降以及沉積物堆積而與大海分開形成湖泊。</p>
-
-    </div>
-  </div>
-剛出發時想說既然都看得到湖對岸那距離應該也不遠吧
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (5).jpg"
-                     width=500px
-                >
-</figure>
-直到我看到了這個缺口
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (6).jpg"
-                     width=500px
-                >
-</figure>
-簡單用圖來說就是這個樣子
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (7).jpg"
-                     width=500px
-                >
-</figure>
-<br/>
-<br/>
-<br/>
-一開始的阿伯還推薦了幾個視野不錯的私人景點，應該是間當地人才會來的廟宇。
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (8).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (9).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (10).jpg"
-                     width=500px
-                >
-<figcaption>從這裏的展望台看出去的樣子 視野確實開闊 可惜天氣不太好</figcaption>
-</figure>
-<h3 id="虹の塔"><a class="header-anchor" href="#虹の塔"></a>虹の塔</h3>
-<p>從起點出發大概已經騎了2hr，過橋後就是霞ヶ浦有名的<a herf="https://maps.app.goo.gl/5cBNvu8X1cwSaLDi8">瞭望塔</a>。<br>
-旁邊還有個迷你動物園，因為有點來不及所以就先pass了</p>
-<p>旁邊的廣場似乎在辦毛小孩市集(? 除了飼料外也有不少人賣毛小孩用的小工具。</p>
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (11).jpg"
-                      border=0 style="height:350px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (12).jpg"
-                      border=0 style="height:350px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (13).jpg"
-                      border=0 style="height:350px;"
-                ></td>
-</tr></table>
-<p>進入瞭望塔需要400塊，但風景也確實漂亮</p>
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (14).jpg"
-                      border=0 style="height:350px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (15).jpg"
-                      border=0 style="height:350px;"
-                ></td>
-</tr></table>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (16).jpg"
-                     width=500px
-                >
-<figcaption>繼續前進!</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (17).jpg"
-                     width=500px
-                >
-<figcaption></figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (18).jpg"
-                     width=500px
-                >
-<figcaption>早上看天空還陰陰的 幸好過了中午後太陽就出來</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (19).jpg"
-                     width=500px
-                >
-<figcaption>霞ヶ浦也是重要的捕魚地點 每隔一段距離就能看到這樣的船隻停靠處</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (20).jpg"
-                     width=300px
-                >
-<figcaption>在茨城真的是無論哪裡都是一堆田</figcaption>
-</figure>
-<h3 id="天王崎"><a class="header-anchor" href="#天王崎"></a>天王崎</h3>
-<p>繼續騎了2hr總算抵達了湖的另一側，開始略顯疲態了。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (21).jpg"
-                     width=500px
-                >
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (22).jpg"
-                     width=500px
-                >
-<figcaption>幾天後似乎是祭典 大家正在彩排 雖然跟陣頭抬神轎很像但從兩邊感受到的氣氛完全不一樣</figcaption>
-</figure>
-<h3 id="北利根橋"><a class="header-anchor" href="#北利根橋"></a>北利根橋</h3>
-<p>繼續騎約1hr抵達最南邊的北利根橋，這邊再繼續往下騎就能抵達鹿嶋市的鹿島神宮總本社，但我那時滿腦子只想回家，完全沒打算過去看看。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (23).jpg"
-                     width=500px
-                >
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (24).jpg"
-                     width=300px
-                >
-<figcaption>已經看田看到視覺疲勞了</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (25).jpg"
-                     width=500px
-                >
-<figcaption>途中下了一小陣雨臨時找了個公車站躲雨</figcaption>
-<figcaption>但這公車站怎麼愈看愈像下雨時會觸發某些特殊劇情的地方啊</figcaption>
-</figure>
-最後，因為晚上還有其他安排，時間不夠只能放棄騎回起點再回家的計畫，直接回去。
-<h2 id="總結"><a class="header-anchor" href="#總結"></a>總結</h2>
-<p>本次大概騎了85km左右，雖然確實是比前次疲累，但時間夠的話我想應該也能騎完全程。所幸體力也是有在稍微成長，希望有天能完成來回大洗的目標。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241019 (26).jpg"
-                     width=300px
-                >
-<figcaption>霞（kasumi）ヶ浦旁的kasumi</figcaption>
-</figure>]]></content>
-      <tags>
-        <tag>交換</tag>
-        <tag>旅遊</tag>
-        <tag>自行車</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>新年旅 Day5</title>
-    <url>/2025/01/03/newyear-4/</url>
+    <title>JAXA 特別公開</title>
+    <url>/2024/10/26/jaxa/</url>
     <content><![CDATA[]]></content>
       <tags>
         <tag>交換</tag>
-        <tag>旅遊</tag>
+        <tag>生活</tag>
       </tags>
   </entry>
   <entry>
@@ -1917,316 +1940,23 @@
 </tr></table>
 <figcaption>幸好東西還不錯吃</figcaption>
 </figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>2025新年旅</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
       </tags>
   </entry>
   <entry>
-    <title>新年旅 Day1 &amp; Day2</title>
-    <url>/2024/12/31/newyear-1/</url>
-    <content><![CDATA[<p>コミケ結束後吃完晚餐，再到朋友家休息一下後就正式出發了。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (24).jpg"
-                     width=500px
-                >
-<figcaption>算錯電車的時間差點趕不上，大家拚盡全力從車站跑來快累死</figcaption>
-</figure>
-
-  <div class="note p-4 mb-4 rounded-small yellow">
-    <p>還以為夜巴最低也就是仙台那次，沒想到這次更可怕。窗簾是半透明的外面的燈可以透進來，再加上其他人時不時的打呼聲整晚根本沒睡。</p>
-
-  </div>
-<h1>Day1</h1>
-<p>就在這樣完全沒睡的情況下抵達了大阪。但其實今天在大阪完全沒有安排，而且大家都很free，結果就是找了間日K唱歌，加上逛街就這樣度過了一天。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (1).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (22).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figcaption>街上還留著聖誕節時的燈飾</figcaption>
-</figure>
-</br>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (23).jpg"
-                     width=300px
-                >
-<figcaption>在朋友的推薦下吃了鳥貴族，以居酒屋來說真的超讚</figcaption>
-</figure>
-</br>
-接著到奈良與先來關西的朋友會合，就在這樣秋蓋的行程下結束了第一天。
-<h1>Day2</h1>
-<h3 id="早餐（？"><a class="header-anchor" href="#早餐（？"></a>早餐（？</h3>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (2).jpg"
-                      border=0 style="height:500px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (3).jpg"
-                      border=0 style="height:500px;"
-                ></td>
-</tr></table>
-<figcaption>去奈良公園的路上經過了商店街，看到很特別的小吃就順便當早餐買了，味道有點像魚板</figcaption>
-</figure>
-</br>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (4).jpg"
-                     width=300px
-                >
-<figcaption>當地的艾草紅豆麻糬名店：中古堂，大叔超大聲地賣力搗麻糬www</figcaption>
-</figure>
-<h2 id="興福寺"><a class="header-anchor" href="#興福寺"></a>興福寺</h2>
-<p>再走幾步就抵達了第一站ー興福寺。</p>
-
-  <div class="note-large green">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>興福寺歷史</p>
-
-    </div>
-    <div class="notel-content">
-      <p>669 年時，未來的四大家族中的藤原氏的祖先ー藤原鎌足，其夫人鏡王女為了祈求丈夫疾病痊癒而在現京都市山科區建造了山階寺，供奉藤原鎌足塑造的釋迦三尊像。壬申之亂（672年）後，山階寺遷至飛鳥，並以當地地名高市郡廄坂易名為廄坂寺。<br>
-和銅三年（西元710年）元明天皇遷都平城京時，將廄坂寺遷至平城京左京的現址，並將寺名改為「興福寺」。<br>
-</br><br>
-興福寺曾為最興盛的寺廟之一，並和同為藤原氏建立的春日大社形成神佛習合的關係。然而在1868年時因神佛分離興福寺與春日大社的關係被切斷而被沒收大量土地，曾差點面臨廢寺的危機，土地直到直至1883年才歸還。現在的奈良公園周邊幾乎都是興福寺的領地。</p>
-
-    </div>
-  </div>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (5).jpg"
-                      border=0 style="height:450px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (6).jpg"
-                      border=0 style="height:450px;"
-                ></td>
-</tr></table>
-<figcaption>興福寺有很多可以逛的點，但我們沒事先調查所以只逛了南円堂</figcaption>
-</figure>
-<h2 id="奈良公園"><a class="header-anchor" href="#奈良公園"></a>奈良公園</h2>
-<p>在前往東大寺的路上會經過奈良公園，到處都是野餐的遊客跟等著被餵食的鹿。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (7).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (8).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-</tr></table>
-<figcaption>滿滿的鹿</figcaption>
-</figure>
-</br>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (12).jpg"
-                     width=300px
-                >
-<figcaption>公園裡到處都有賣鹿仙貝</figcaption>
-</figure>
-<h2 id="東大寺"><a class="header-anchor" href="#東大寺"></a>東大寺</h2>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (9).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (10).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figcaption>大門內的左右都有一尊雕像，近看真的頗宏偉</figcaption>
-</figure>
-
-  <div class="note-large green">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>東大寺歷史</p>
-
-    </div>
-    <div class="notel-content">
-      <p>聖武天皇在位的期間天花肆虐、自然災害頻發，為了祈求國家平安在728年時建立了「金鐘山寺」，742年，金鐘寺被定為大和國的國分寺而更改寺名為金光明寺。大佛的鑄造始於747年，推測「東大寺」之寺號應該是從此時開始。<br>
-</br><br>
-但寺院至今經歷的多次戰火與火災，現在的建築幾乎都是重建而來的。</p>
-
-    </div>
-  </div>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>國分寺</p>
-
-    </div>
-    <div class="notel-content">
-      <p>正式名稱是金光明四天王護國之寺，聖武天皇為了鎮護國家，在各個行政區各設立了一座國分寺</p>
-
-    </div>
-  </div>
-</br>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (11).jpg"
-                     width=500px
-                >
-<figcaption>大佛殿內有世界最大的青銅佛像，但因為之前進去過，這次就在外面晃晃而已</figcaption>
-</figure>
-<h2 id="春日大社"><a class="header-anchor" href="#春日大社"></a>春日大社</h2>
-
-  <div class="note-large green">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>春日大社歷史</p>
-
-    </div>
-    <div class="notel-content">
-      <p>相傳日本神話中的建御雷（雷神）曾騎着神鹿降臨於大地，而成為茨城縣鹿島的神祗。其後，藤原氏視建御雷為家族的守護神。<br>
-768年，奈良建都之時，為了祈求國家繁榮，藤原家從鹿島神宮迎接建御雷到了春日的御蓋山，並興建春日大社供奉至今。<br>
-由於建御雷騎鹿的傳說，在奈良公園和森林生活的鹿，也被視為神的使者，也許這就是奈良鹿如此多的原因。<br>
-</br><br>
-春日大社於每年3月13日舉行「春日祭」，是日本三大敕祭之一，已經延續了1200多年。迎接自宮中代表天皇前來的使者，祈求國家安泰與國民和平。</p>
-
-    </div>
-  </div>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (13).jpg"
-                     width=300px
-                >
-<figcaption></figcaption>
-</figure>
-<h2 id="跨年敲鐘"><a class="header-anchor" href="#跨年敲鐘"></a>跨年敲鐘</h2>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (14).jpg"
-                     width=500px
-                >
-<figcaption>看到炸和牛排感覺挺新鮮，但吃完後覺得其實挺普</figcaption>
-</figure>
-<p>當然，與台灣一樣，日本各地也有跨年晚會，但更多的是在神社跟著祭典一同跨年，接著隔天再去初詣。<br>
-在東大寺有個很有趣的跨年活動，在跨年後，寺院會敲鐘108下，據說是消除世人的108種煩惱。而東大寺會交給民眾們來敲。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (15).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (16).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figcaption>晚上的東大寺相較與白天的熱鬧，晚上的寂靜也別有一番風味</figcaption>
-</figure>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>初詣（はつもうで）</p>
-
-    </div>
-    <div class="notel-content">
-      <p>「詣」有參拜神社佛寺的意思，而「初詣」就是在新年去神社或佛寺參拜的意思。</p>
-
-    </div>
-  </div>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (17).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (18).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figcaption>需要先排隊抽名額，一下由8個人敲，而108下也就是864人</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (19).jpg"
-                     width=300px
-                >
-<figcaption>幸虧人並不多，基本上有來就拿得到，話說這代表名額的卡還挺好看的</figcaption>
-</figure>
-<p>鐘杵上綁著八條繩子，一人抓一條接著一起用力往後跩，最後靠慣性讓鐘杵敲擊。當下的氣氛還挺有趣了，可惜因為是四個人一起敲沒有拍到照片。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (20).jpg"
-                     width=300px
-                >
-<figcaption>拍完後到了上方的二月堂初詣，從這裡可以清楚看到奈良市</figcaption>
-</figure>
-<p>比起敲鐘，更多的是來東大寺初詣的民眾，都快從東大寺排到門口了。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241231 (21).jpg"
-                     width=500px
-                >
-<figcaption>外面也排滿了攤販跟參拜完來吃消夜的人們</figcaption>
-</figure>
-<p>雖然兩天都很chill，但相較於第一天的無所事事，第二天就充實了許多，也許大家是需要暖機的類型吧。也體驗到了非常難得的文化，接下來就要離開奈良了，期待明天的景點。</p>
-]]></content>
+    <title>新年旅 Day5</title>
+    <url>/2025/01/03/newyear-4/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>2025新年旅</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
@@ -2611,10 +2341,808 @@
                 >
 </figure>
 ]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>其他</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
         <tag>自行車</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新年旅 Day1 &amp; Day2</title>
+    <url>/2024/12/31/newyear-1/</url>
+    <content><![CDATA[<p>コミケ結束後吃完晚餐，再到朋友家休息一下後就正式出發了。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (24).jpg"
+                     width=500px
+                >
+<figcaption>算錯電車的時間差點趕不上，大家拚盡全力從車站跑來快累死</figcaption>
+</figure>
+
+  <div class="note p-4 mb-4 rounded-small yellow">
+    <p>還以為夜巴最低也就是仙台那次，沒想到這次更可怕。窗簾是半透明的外面的燈可以透進來，再加上其他人時不時的打呼聲整晚根本沒睡。</p>
+
+  </div>
+<h1>Day1</h1>
+<p>就在這樣完全沒睡的情況下抵達了大阪。但其實今天在大阪完全沒有安排，而且大家都很free，結果就是找了間日K唱歌，加上逛街就這樣度過了一天。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (1).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (22).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figcaption>街上還留著聖誕節時的燈飾</figcaption>
+</figure>
+</br>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (23).jpg"
+                     width=300px
+                >
+<figcaption>在朋友的推薦下吃了鳥貴族，以居酒屋來說真的超讚</figcaption>
+</figure>
+</br>
+接著到奈良與先來關西的朋友會合，就在這樣秋蓋的行程下結束了第一天。
+<h1>Day2</h1>
+<h3 id="早餐（？"><a class="header-anchor" href="#早餐（？"></a>早餐（？</h3>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (2).jpg"
+                      border=0 style="height:500px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (3).jpg"
+                      border=0 style="height:500px;"
+                ></td>
+</tr></table>
+<figcaption>去奈良公園的路上經過了商店街，看到很特別的小吃就順便當早餐買了，味道有點像魚板</figcaption>
+</figure>
+</br>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (4).jpg"
+                     width=300px
+                >
+<figcaption>當地的艾草紅豆麻糬名店：中古堂，大叔超大聲地賣力搗麻糬www</figcaption>
+</figure>
+<h2 id="興福寺"><a class="header-anchor" href="#興福寺"></a>興福寺</h2>
+<p>再走幾步就抵達了第一站ー興福寺。</p>
+
+  <div class="note-large green">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>興福寺歷史</p>
+
+    </div>
+    <div class="notel-content">
+      <p>669 年時，未來的四大家族中的藤原氏的祖先ー藤原鎌足，其夫人鏡王女為了祈求丈夫疾病痊癒而在現京都市山科區建造了山階寺，供奉藤原鎌足塑造的釋迦三尊像。壬申之亂（672年）後，山階寺遷至飛鳥，並以當地地名高市郡廄坂易名為廄坂寺。<br>
+和銅三年（西元710年）元明天皇遷都平城京時，將廄坂寺遷至平城京左京的現址，並將寺名改為「興福寺」。<br>
+</br><br>
+興福寺曾為最興盛的寺廟之一，並和同為藤原氏建立的春日大社形成神佛習合的關係。然而在1868年時因神佛分離興福寺與春日大社的關係被切斷而被沒收大量土地，曾差點面臨廢寺的危機，土地直到直至1883年才歸還。現在的奈良公園周邊幾乎都是興福寺的領地。</p>
+
+    </div>
+  </div>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (5).jpg"
+                      border=0 style="height:450px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (6).jpg"
+                      border=0 style="height:450px;"
+                ></td>
+</tr></table>
+<figcaption>興福寺有很多可以逛的點，但我們沒事先調查所以只逛了南円堂</figcaption>
+</figure>
+<h2 id="奈良公園"><a class="header-anchor" href="#奈良公園"></a>奈良公園</h2>
+<p>在前往東大寺的路上會經過奈良公園，到處都是野餐的遊客跟等著被餵食的鹿。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (7).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (8).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+</tr></table>
+<figcaption>滿滿的鹿</figcaption>
+</figure>
+</br>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (12).jpg"
+                     width=300px
+                >
+<figcaption>公園裡到處都有賣鹿仙貝</figcaption>
+</figure>
+<h2 id="東大寺"><a class="header-anchor" href="#東大寺"></a>東大寺</h2>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (9).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (10).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figcaption>大門內的左右都有一尊雕像，近看真的頗宏偉</figcaption>
+</figure>
+
+  <div class="note-large green">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>東大寺歷史</p>
+
+    </div>
+    <div class="notel-content">
+      <p>聖武天皇在位的期間天花肆虐、自然災害頻發，為了祈求國家平安在728年時建立了「金鐘山寺」，742年，金鐘寺被定為大和國的國分寺而更改寺名為金光明寺。大佛的鑄造始於747年，推測「東大寺」之寺號應該是從此時開始。<br>
+</br><br>
+但寺院至今經歷的多次戰火與火災，現在的建築幾乎都是重建而來的。</p>
+
+    </div>
+  </div>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>國分寺</p>
+
+    </div>
+    <div class="notel-content">
+      <p>正式名稱是金光明四天王護國之寺，聖武天皇為了鎮護國家，在各個行政區各設立了一座國分寺</p>
+
+    </div>
+  </div>
+</br>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (11).jpg"
+                     width=500px
+                >
+<figcaption>大佛殿內有世界最大的青銅佛像，但因為之前進去過，這次就在外面晃晃而已</figcaption>
+</figure>
+<h2 id="春日大社"><a class="header-anchor" href="#春日大社"></a>春日大社</h2>
+
+  <div class="note-large green">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>春日大社歷史</p>
+
+    </div>
+    <div class="notel-content">
+      <p>相傳日本神話中的建御雷（雷神）曾騎着神鹿降臨於大地，而成為茨城縣鹿島的神祗。其後，藤原氏視建御雷為家族的守護神。<br>
+768年，奈良建都之時，為了祈求國家繁榮，藤原家從鹿島神宮迎接建御雷到了春日的御蓋山，並興建春日大社供奉至今。<br>
+由於建御雷騎鹿的傳說，在奈良公園和森林生活的鹿，也被視為神的使者，也許這就是奈良鹿如此多的原因。<br>
+</br><br>
+春日大社於每年3月13日舉行「春日祭」，是日本三大敕祭之一，已經延續了1200多年。迎接自宮中代表天皇前來的使者，祈求國家安泰與國民和平。</p>
+
+    </div>
+  </div>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (13).jpg"
+                     width=300px
+                >
+<figcaption></figcaption>
+</figure>
+<h2 id="跨年敲鐘"><a class="header-anchor" href="#跨年敲鐘"></a>跨年敲鐘</h2>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (14).jpg"
+                     width=500px
+                >
+<figcaption>看到炸和牛排感覺挺新鮮，但吃完後覺得其實挺普</figcaption>
+</figure>
+<p>當然，與台灣一樣，日本各地也有跨年晚會，但更多的是在神社跟著祭典一同跨年，接著隔天再去初詣。<br>
+在東大寺有個很有趣的跨年活動，在跨年後，寺院會敲鐘108下，據說是消除世人的108種煩惱。而東大寺會交給民眾們來敲。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (15).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (16).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figcaption>晚上的東大寺相較與白天的熱鬧，晚上的寂靜也別有一番風味</figcaption>
+</figure>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>初詣（はつもうで）</p>
+
+    </div>
+    <div class="notel-content">
+      <p>「詣」有參拜神社佛寺的意思，而「初詣」就是在新年去神社或佛寺參拜的意思。</p>
+
+    </div>
+  </div>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (17).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (18).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figcaption>需要先排隊抽名額，一下由8個人敲，而108下也就是864人</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (19).jpg"
+                     width=300px
+                >
+<figcaption>幸虧人並不多，基本上有來就拿得到，話說這代表名額的卡還挺好看的</figcaption>
+</figure>
+<p>鐘杵上綁著八條繩子，一人抓一條接著一起用力往後跩，最後靠慣性讓鐘杵敲擊。當下的氣氛還挺有趣了，可惜因為是四個人一起敲沒有拍到照片。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (20).jpg"
+                     width=300px
+                >
+<figcaption>拍完後到了上方的二月堂初詣，從這裡可以清楚看到奈良市</figcaption>
+</figure>
+<p>比起敲鐘，更多的是來東大寺初詣的民眾，都快從東大寺排到門口了。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241231 (21).jpg"
+                     width=500px
+                >
+<figcaption>外面也排滿了攤販跟參拜完來吃消夜的人們</figcaption>
+</figure>
+<p>雖然兩天都很chill，但相較於第一天的無所事事，第二天就充實了許多，也許大家是需要暖機的類型吧。也體驗到了非常難得的文化，接下來就要離開奈良了，期待明天的景點。</p>
+]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>2025新年旅</category>
+      </categories>
+      <tags>
+        <tag>交換</tag>
+        <tag>旅遊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>仙台旅 Day3</title>
+    <url>/2024/11/29/sendai-3/</url>
+    <content><![CDATA[<p>這間旅館一共有兩區溫泉，都有室內跟室外湯，兩區各為男湯跟女湯，早上時會交換。既然都來了那當然是兩邊都要泡到囉，所以隔天就早起來泡湯了。溫泉還不錯不過沒甚麼特別的，但它的庭院造景做得很漂亮，整體的氛圍做得還不錯。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (26).jpg"
+                     width=300px
+                >
+<figcaption>早起泡溫泉超讚</figcaption>
+</figure>
+<h3 id="早餐"><a class="header-anchor" href="#早餐"></a>早餐</h3>
+<p>早餐大概是整體裡面我覺得最讚的了，雖然是自助餐，但每樣都不馬虎，而且幾乎仙台所有的特產都可以吃到。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (27).jpg"
+                     width=500px
+                >
+</figure>
+<p>飯店的介紹大概就是這樣，不知大家覺得價格是多少呢，答案是…<br>
+</br><br>
+</br><br>
+</br><br>
+噔噔～  一共是3600<br>
+雖然是大手筆，但除了晚餐外的體驗，我覺得還挺值得的<br>
+</br></p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (20).jpg"
+                      border=0 style="height:300px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (21).jpg"
+                      border=0 style="height:300px;"
+                ></td>
+</tr></table>
+<figcaption>出發前的合照！</figcaption>
+</figure>
+<p>今天的交通是麻煩みっこさん，因為みっこさん公司年終旅遊常常來秋保溫泉，所以對這邊還挺熟悉的。出發前先帶我們到附近的一間超市吃萩餅（おはぎ），就是在紅豆或芝麻等餡料中包入米飯（反方向的飯糰？</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (1).jpg"
+                     width=500px
+                >
+</figure>
+<h3 id="秋保大瀑布"><a class="header-anchor" href="#秋保大瀑布"></a>秋保大瀑布</h3>
+<p>第一站來到了秋保大瀑布，雖然停車場走出來就能看到，但會有點距離。如果想近距離感受瀑布的震撼，需要走約20分鐘。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (3).jpg"
+                     width=300px
+                >
+<figcaption>從停車場外觀景台看到的瀑布</figcaption>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (23).jpg"
+                     width=500px
+                >
+<figcaption>先走一段馬路後再走一段步道就能抵達了</figcaption>
+</figure>
+<p>在途中請路人幫忙合照時，發現他剛好是來旅遊的台灣人，這種地方都能遇到台灣人也太扯。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (22).jpg"
+                     width=500px
+                >
+</figure>
+<h3 id="秋保神社"><a class="header-anchor" href="#秋保神社"></a>秋保神社</h3>
+<h4 id="歷史"><a class="header-anchor" href="#歷史"></a>歷史</h4>
+<p>秋保神社建立於平安時代，至今已有1200年歷史。此處的祖先曾至諏訪大社祈求戰爭勝利，在成功後作為感謝將諏訪大社的神靈請回秋保並建立諏訪神社來祭拜並尊稱其「勝負之神」。並於明治42年（1909年）在天皇的命令下，與周邊的五個神社合併，改名為「秋保神社」。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (5).jpg"
+                     width=500px
+                >
+</figure>
+</br>
+
+  <div class="note p-4 mb-4 rounded-small red">
+    <p>既然供奉的是勝負之神，自然是會吸引許多面臨比賽跟考試的人前來。仙台出身的羽生結弦也來過此處參拜，所以這裡也是當地相當有名的場所。</p>
+
+  </div>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (6).jpg"
+                     width=300px
+                >
+</figure>
+</br>
+
+  <div class="note p-4 mb-4 rounded-small yellow">
+    <p>中途みっこさん帶我們去吃了一間當地有名的冰淇淋，我看到有プリン(布丁)就點了，因為看不懂前面的單字還以為是布丁的品種名，吃下去才知道是我不喜歡的南瓜…<br>
+</br><br>
+深刻體會日文的重要性</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (24).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (24).png"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+</figure>
+  </div>
+<h3 id="威士忌觀光工廠"><a class="header-anchor" href="#威士忌觀光工廠"></a>威士忌觀光工廠</h3>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (7).jpg"
+                     width=300px
+                >
+<figcaption>你！　阿茲卡班！！</figcaption>
+</figure>
+<p>位於仙台市西邊，有著來自藏王連峰的新川，其河水硬度相當低，且此處的乾燥空氣便於酒桶保存，於是社長便決定在此處建立WHISKY第二間的蒸餾所。<br>
+這裡可以免費參觀，還有導覽員幫忙導覽，並且在結束後還能試喝威士忌。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (8).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (9).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<figcaption>這邊的建築幾乎都是使用紅磚，有種傳統的美</figcaption>
+</tr></table>
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (10).jpg"
+                      border=0 style="height:300px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (11).jpg"
+                      border=0 style="height:300px;"
+                ></td>
+<figcaption>如果聽不懂導覽的話也有圖片可以瞭解個大概</figcaption>
+</tr></table>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (12).jpg"
+                     width=300px
+                >
+<figcaption>好多的分類帽ww</figcaption>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (13).jpg"
+                     width=500px
+                >
+<figcaption>這邊是在熟成的倉庫做熟成的借紹，第一次看到本體還是挺震撼的</figcaption>
+</figure>
+導覽結束後，終於來到試喝的環節。一個人可以喝到3種威士忌各一杯，導覽員還會建議最適合的加冰塊跟碳酸水的比例。
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (14).jpg"
+                     width=500px
+                >
+</figure>
+<h3 id="仙台市天文台"><a class="header-anchor" href="#仙台市天文台"></a>仙台市天文台</h3>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (17).jpg"
+                     width=500px
+                >
+</figure>
+</br>
+天文台開設於1955年，原位於仙台市西公園，在2008年時移至現在的位置。
+因為時間不夠，所以沒有逛到展示室，只參觀的望遠鏡跟星象館而已
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (15).jpg"
+                     width=300px
+                >
+<figcaption>東北地區最大的望遠鏡ー瞳（ひとみ），導覽員會展示穹頂的開關，還會找一個星體讓遊客從目鏡觀測</figcaption>
+</figure>
+<h3 id="仙台大觀音"><a class="header-anchor" href="#仙台大觀音"></a>仙台大觀音</h3>
+<p>最後，因為經過了大觀音，みっこさん就帶我們順路來看看。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (18).jpg"
+                     width=300px
+                >
+</figure>
+</br>
+仙台大觀音建於1991年，為了慶祝仙台市迎來100周年，比自由女神高了7公尺，是日本第二高的觀音像。觀音內還有數不盡的其他佛像，但因為晚上了無法進入，所以在周圍逛一逛就離開了。
+<h3 id="晚餐"><a class="header-anchor" href="#晚餐"></a>晚餐</h3>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (25).jpg"
+                     width=500px
+                >
+</figure>
+</br>
+晚上みっこさん帶我們來到善治郎吃仙台的名物ー牛舌。之前烤肉看到的都是薄薄的一片，這還是第一次看到這麼厚的牛舌，而且不只是外表震撼，口感也超讚，比起其他部位的肉有種脆脆的口感。
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241129 (19).jpg"
+                     width=500px
+                >
+</figure>
+<h3 id="總結"><a class="header-anchor" href="#總結"></a>總結</h3>
+<p>今天的行程都是在山區內，如果只靠大眾運輸肯定跑不完，真是謝謝みっこさん擔任駕駛陪了我們一整天。一路上吹著風，看自然風景，還喝了酒，又是愜意的一天。還有晚餐的牛舌實在是令我印象深刻，還想回去吃一次的那種，推薦大家去仙台一定要去吃！</p>
+]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>仙台旅</category>
+      </categories>
+      <tags>
+        <tag>交換</tag>
+        <tag>旅遊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新年旅 Day4</title>
+    <url>/2025/01/02/newyear-3/</url>
+    <content><![CDATA[<p>退房後，再走了半小時回到車站，借放完行李後就前往了附近的第一站。</p>
+<h2 id="護國神社"><a class="header-anchor" href="#護國神社"></a>護國神社</h2>
+<p>第一站來到彥根城旁的護國神社，與昨晚旅館那邊不同，路上人潮多了許多。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (1).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (2).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figcaption></figcaption>
+</figure>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>護國神社</p>
+
+    </div>
+    <div class="notel-content">
+      <p>為了弔念殉職的自衛官和警察，日本各縣都有設立所謂的「招魂社」，但由於「招魂」是特定時間的行為，與為永久設施的「社」含義衝突，於是在之後將東京的招魂設改名為靖國神社，而各地的招魂社則改名為護國神社。<br>
+護國神社基本上是1府縣1社，但北海道有3社，而岐阜縣、兵庫縣、島根縣、廣島縣因為縣內有多個陸軍聯隊故設有2社。</p>
+
+    </div>
+  </div>
+</br>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (3).jpg"
+                     width=500px
+                >
+<figcaption>有人騎腳踏車參拜了全國的護國神社 太強</figcaption>
+</figure>
+<h2 id="彥根城"><a class="header-anchor" href="#彥根城"></a>彥根城</h2>
+<p>稍微晃了一下就前往了旁邊的彥根城。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (4).jpg"
+                     width=350px
+                >
+<figcaption>從進售票口開始就是一大段的階梯，因為是在矮山上建成的「平山城」，從入口到天守需要攀爬不少階梯。</figcaption>
+</figure>
+</br>
+
+  <div class="note-large green">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>彥根城歷史</p>
+
+    </div>
+    <div class="notel-content">
+      <p>彥根城於1622年由井伊直政的長子井伊直勝建造。由於連年戰亂，彥根城的建材多由附近殘破的城守拆替而來。作為平山城，其較高的地理位置兼具瞭望和防守優勢，對關原之戰後的戰亂平定有穩定效果。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (5).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (13).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figcaption>彥根城天守為日本12座「現存天守」中，被列為國寶的5座的其中之一。</figcaption>
+</figure>
+    </div>
+  </div>
+<p>天守的每層皆為獨立堆疊而成的，共有三層三階和地下的一層。且每一層的建築風格都不一樣，使得建築外觀有著豐富的變化。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (8).jpg"
+                     width=350px
+                >
+<figcaption>天守內的樓梯非常陡峭，稍微不注意就會一路滑到一樓</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (9).jpg"
+                     width=500px
+                >
+<figcaption>城內幾乎360度都能眺望，風景非常漂亮</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (12).jpg"
+                     width=350px
+                >
+<figcaption>彥根城天守的砲眼、弓眼採隱藏設計，只有在戰鬥中才會將洞打開（三角形是砲眼、四方形是弓眼），因此平常從外面是看不到槍眼的</figcaption>
+</figure>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>玄宮園</p>
+
+    </div>
+    <div class="notel-content">
+      <p>井伊氏以唐玄宗的離宮庭園為概念，在城池旁興建了玄宮園。園內的鳳翔台可從下往上眺望彥根城，是當時招待貴賓的地方。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (14).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (15).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+</tr></table>
+<figcaption></figcaption>
+</figure>
+    </div>
+  </div>
+<h3 id="午餐"><a class="header-anchor" href="#午餐"></a>午餐</h3>
+<p>午餐在附近找了間有滋賀縣特產「近江什錦麵」的餐廳。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (16).jpg"
+                     width=500px
+                >
+<figcaption>近江什錦麵與其他什錦麵不同的地方在於，其使用大量的蔬菜來代替原來的海鮮</figcaption>
+</figure>
+<h2 id="多賀大社"><a class="header-anchor" href="#多賀大社"></a>多賀大社</h2>
+<p>原本接著是打算去津田城的，但那時已經接近閉城時間，所以就改去了附近的多賀大社。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (17).jpg"
+                     width=350px
+                >
+<figcaption>剛出車站就能看到入口鳥居，但要到神社還要再走個十分鐘</figcaption>
+</figure>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (18).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (19).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figcaption>即使已經二號了人潮還是很多</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (20).jpg"
+                     width=350px
+                >
+<figcaption>日本人在初詣後會喝甘酒，做法是令白米發酵，將碳水化合物分解成糖分，從而帶出甜味，所以幾乎不含酒精。喝起來感覺像薑茶</figcaption>
+</figure>
+<p>結束後就回到彥根車站，前往本次旅途的最後一個城市ー名古屋。</p>
+<h3 id="晚餐"><a class="header-anchor" href="#晚餐"></a>晚餐</h3>
+<p>大概八點左右抵達，幸好這次飯店就在車站附近，要是也像昨天的飯店那樣的話怕是要哭出來。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (21).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20250102 (22).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+<figcaption>在大家的乾杯下結束今天的旅程</figcaption>
+</figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>2025新年旅</category>
+      </categories>
+      <tags>
+        <tag>交換</tag>
+        <tag>旅遊</tag>
       </tags>
   </entry>
   <entry>
@@ -2915,218 +3443,10 @@
 </br><br>
 總之，期待接下來的旅途也能一樣順利。</p>
 ]]></content>
-      <tags>
-        <tag>交換</tag>
-        <tag>旅遊</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>新年旅 Day4</title>
-    <url>/2025/01/02/newyear-3/</url>
-    <content><![CDATA[<p>退房後，再走了半小時回到車站，借放完行李後就前往了附近的第一站。</p>
-<h2 id="護國神社"><a class="header-anchor" href="#護國神社"></a>護國神社</h2>
-<p>第一站來到彥根城旁的護國神社，與昨晚旅館那邊不同，路上人潮多了許多。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (1).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (2).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figcaption></figcaption>
-</figure>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>護國神社</p>
-
-    </div>
-    <div class="notel-content">
-      <p>為了弔念殉職的自衛官和警察，日本各縣都有設立所謂的「招魂社」，但由於「招魂」是特定時間的行為，與為永久設施的「社」含義衝突，於是在之後將東京的招魂設改名為靖國神社，而各地的招魂社則改名為護國神社。<br>
-護國神社基本上是1府縣1社，但北海道有3社，而岐阜縣、兵庫縣、島根縣、廣島縣因為縣內有多個陸軍聯隊故設有2社。</p>
-
-    </div>
-  </div>
-</br>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (3).jpg"
-                     width=500px
-                >
-<figcaption>有人騎腳踏車參拜了全國的護國神社 太強</figcaption>
-</figure>
-<h2 id="彥根城"><a class="header-anchor" href="#彥根城"></a>彥根城</h2>
-<p>稍微晃了一下就前往了旁邊的彥根城。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (4).jpg"
-                     width=350px
-                >
-<figcaption>從進售票口開始就是一大段的階梯，因為是在矮山上建成的「平山城」，從入口到天守需要攀爬不少階梯。</figcaption>
-</figure>
-</br>
-
-  <div class="note-large green">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>彥根城歷史</p>
-
-    </div>
-    <div class="notel-content">
-      <p>彥根城於1622年由井伊直政的長子井伊直勝建造。由於連年戰亂，彥根城的建材多由附近殘破的城守拆替而來。作為平山城，其較高的地理位置兼具瞭望和防守優勢，對關原之戰後的戰亂平定有穩定效果。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (5).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (13).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figcaption>彥根城天守為日本12座「現存天守」中，被列為國寶的5座的其中之一。</figcaption>
-</figure>
-    </div>
-  </div>
-<p>天守的每層皆為獨立堆疊而成的，共有三層三階和地下的一層。且每一層的建築風格都不一樣，使得建築外觀有著豐富的變化。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (8).jpg"
-                     width=350px
-                >
-<figcaption>天守內的樓梯非常陡峭，稍微不注意就會一路滑到一樓</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (9).jpg"
-                     width=500px
-                >
-<figcaption>城內幾乎360度都能眺望，風景非常漂亮</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (12).jpg"
-                     width=350px
-                >
-<figcaption>彥根城天守的砲眼、弓眼採隱藏設計，只有在戰鬥中才會將洞打開（三角形是砲眼、四方形是弓眼），因此平常從外面是看不到槍眼的</figcaption>
-</figure>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>玄宮園</p>
-
-    </div>
-    <div class="notel-content">
-      <p>井伊氏以唐玄宗的離宮庭園為概念，在城池旁興建了玄宮園。園內的鳳翔台可從下往上眺望彥根城，是當時招待貴賓的地方。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (14).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (15).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-</tr></table>
-<figcaption></figcaption>
-</figure>
-    </div>
-  </div>
-<h3 id="午餐"><a class="header-anchor" href="#午餐"></a>午餐</h3>
-<p>午餐在附近找了間有滋賀縣特產「近江什錦麵」的餐廳。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (16).jpg"
-                     width=500px
-                >
-<figcaption>近江什錦麵與其他什錦麵不同的地方在於，其使用大量的蔬菜來代替原來的海鮮</figcaption>
-</figure>
-<h2 id="多賀大社"><a class="header-anchor" href="#多賀大社"></a>多賀大社</h2>
-<p>原本接著是打算去津田城的，但那時已經接近閉城時間，所以就改去了附近的多賀大社。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (17).jpg"
-                     width=350px
-                >
-<figcaption>剛出車站就能看到入口鳥居，但要到神社還要再走個十分鐘</figcaption>
-</figure>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (18).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (19).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figcaption>即使已經二號了人潮還是很多</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (20).jpg"
-                     width=350px
-                >
-<figcaption>日本人在初詣後會喝甘酒，做法是令白米發酵，將碳水化合物分解成糖分，從而帶出甜味，所以幾乎不含酒精。喝起來感覺像薑茶</figcaption>
-</figure>
-<p>結束後就回到彥根車站，前往本次旅途的最後一個城市ー名古屋。</p>
-<h3 id="晚餐"><a class="header-anchor" href="#晚餐"></a>晚餐</h3>
-<p>大概八點左右抵達，幸好這次飯店就在車站附近，要是也像昨天的飯店那樣的話怕是要哭出來。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (21).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20250102 (22).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-<figcaption>在大家的乾杯下結束今天的旅程</figcaption>
-</figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>仙台旅</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
@@ -3333,737 +3653,232 @@
                 >
 <figcaption>温泉に行こう！</figcaption>
 </figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>仙台旅</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
       </tags>
   </entry>
   <entry>
-    <title>仙台旅 Day3</title>
-    <url>/2024/11/29/sendai-3/</url>
-    <content><![CDATA[<p>這間旅館一共有兩區溫泉，都有室內跟室外湯，兩區各為男湯跟女湯，早上時會交換。既然都來了那當然是兩邊都要泡到囉，所以隔天就早起來泡湯了。溫泉還不錯不過沒甚麼特別的，但它的庭院造景做得很漂亮，整體的氛圍做得還不錯。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (26).jpg"
-                     width=300px
-                >
-<figcaption>早起泡溫泉超讚</figcaption>
-</figure>
-<h3 id="早餐"><a class="header-anchor" href="#早餐"></a>早餐</h3>
-<p>早餐大概是整體裡面我覺得最讚的了，雖然是自助餐，但每樣都不馬虎，而且幾乎仙台所有的特產都可以吃到。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (27).jpg"
-                     width=500px
-                >
-</figure>
-<p>飯店的介紹大概就是這樣，不知大家覺得價格是多少呢，答案是…<br>
+    <title>仙台旅 Day5</title>
+    <url>/2024/12/01/sendai-5/</url>
+    <content><![CDATA[<p>之前聽みっこさん提到仙台有一條環繞市內景點的觀光巴士路線，所以今天的行程就決定是參觀沿線的景點了。<br>
 </br><br>
-</br><br>
-</br><br>
-噔噔～  一共是3600<br>
-雖然是大手筆，但除了晚餐外的體驗，我覺得還挺值得的<br>
-</br></p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (20).jpg"
-                      border=0 style="height:300px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (21).jpg"
-                      border=0 style="height:300px;"
-                ></td>
-</tr></table>
-<figcaption>出發前的合照！</figcaption>
-</figure>
-<p>今天的交通是麻煩みっこさん，因為みっこさん公司年終旅遊常常來秋保溫泉，所以對這邊還挺熟悉的。出發前先帶我們到附近的一間超市吃萩餅（おはぎ），就是在紅豆或芝麻等餡料中包入米飯（反方向的飯糰？</p>
+也許因為是假日，排隊等公車的人還滿多的。雖然20分鐘有一班，但我們兩班後才成功上車(´･_･`)</p>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241129 (1).jpg"
-                     width=500px
-                >
-</figure>
-<h3 id="秋保大瀑布"><a class="header-anchor" href="#秋保大瀑布"></a>秋保大瀑布</h3>
-<p>第一站來到了秋保大瀑布，雖然停車場走出來就能看到，但會有點距離。如果想近距離感受瀑布的震撼，需要走約20分鐘。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (3).jpg"
+                     data-src="20241201 (1).jpg"
                      width=300px
                 >
-<figcaption>從停車場外觀景台看到的瀑布</figcaption>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (23).jpg"
-                     width=500px
-                >
-<figcaption>先走一段馬路後再走一段步道就能抵達了</figcaption>
+<figcaption>公車造型還挺可愛</figcaption>
 </figure>
-<p>在途中請路人幫忙合照時，發現他剛好是來旅遊的台灣人，這種地方都能遇到台灣人也太扯。</p>
+<h3 id="仙台城（青葉城）"><a class="header-anchor" href="#仙台城（青葉城）"></a>仙台城（青葉城）</h3>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241129 (22).jpg"
-                     width=500px
-                >
-</figure>
-<h3 id="秋保神社"><a class="header-anchor" href="#秋保神社"></a>秋保神社</h3>
-<h4 id="歷史"><a class="header-anchor" href="#歷史"></a>歷史</h4>
-<p>秋保神社建立於平安時代，至今已有1200年歷史。此處的祖先曾至諏訪大社祈求戰爭勝利，在成功後作為感謝將諏訪大社的神靈請回秋保並建立諏訪神社來祭拜並尊稱其「勝負之神」。並於明治42年（1909年）在天皇的命令下，與周邊的五個神社合併，改名為「秋保神社」。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (5).jpg"
-                     width=500px
-                >
-</figure>
-</br>
-
-  <div class="note p-4 mb-4 rounded-small red">
-    <p>既然供奉的是勝負之神，自然是會吸引許多面臨比賽跟考試的人前來。仙台出身的羽生結弦也來過此處參拜，所以這裡也是當地相當有名的場所。</p>
-
-  </div>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (6).jpg"
+                     data-src="20241201 (2).jpg"
                      width=300px
                 >
-</figure>
-</br>
-
-  <div class="note p-4 mb-4 rounded-small yellow">
-    <p>中途みっこさん帶我們去吃了一間當地有名的冰淇淋，我看到有プリン(布丁)就點了，因為看不懂前面的單字還以為是布丁的品種名，吃下去才知道是我不喜歡的南瓜…<br>
-</br><br>
-深刻體會日文的重要性</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (24).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (24).png"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-</figure>
-  </div>
-<h3 id="威士忌觀光工廠"><a class="header-anchor" href="#威士忌觀光工廠"></a>威士忌觀光工廠</h3>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (7).jpg"
-                     width=300px
-                >
-<figcaption>你！　阿茲卡班！！</figcaption>
-</figure>
-<p>位於仙台市西邊，有著來自藏王連峰的新川，其河水硬度相當低，且此處的乾燥空氣便於酒桶保存，於是社長便決定在此處建立WHISKY第二間的蒸餾所。<br>
-這裡可以免費參觀，還有導覽員幫忙導覽，並且在結束後還能試喝威士忌。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (8).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (9).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<figcaption>這邊的建築幾乎都是使用紅磚，有種傳統的美</figcaption>
-</tr></table>
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (10).jpg"
-                      border=0 style="height:300px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (11).jpg"
-                      border=0 style="height:300px;"
-                ></td>
-<figcaption>如果聽不懂導覽的話也有圖片可以瞭解個大概</figcaption>
-</tr></table>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (12).jpg"
-                     width=300px
-                >
-<figcaption>好多的分類帽ww</figcaption>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (13).jpg"
-                     width=500px
-                >
-<figcaption>這邊是在熟成的倉庫做熟成的借紹，第一次看到本體還是挺震撼的</figcaption>
-</figure>
-導覽結束後，終於來到試喝的環節。一個人可以喝到3種威士忌各一杯，導覽員還會建議最適合的加冰塊跟碳酸水的比例。
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (14).jpg"
-                     width=500px
-                >
-</figure>
-<h3 id="仙台市天文台"><a class="header-anchor" href="#仙台市天文台"></a>仙台市天文台</h3>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (17).jpg"
-                     width=500px
-                >
-</figure>
-</br>
-天文台開設於1955年，原位於仙台市西公園，在2008年時移至現在的位置。
-因為時間不夠，所以沒有逛到展示室，只參觀的望遠鏡跟星象館而已
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (15).jpg"
-                     width=300px
-                >
-<figcaption>東北地區最大的望遠鏡ー瞳（ひとみ），導覽員會展示穹頂的開關，還會找一個星體讓遊客從目鏡觀測</figcaption>
-</figure>
-<h3 id="仙台大觀音"><a class="header-anchor" href="#仙台大觀音"></a>仙台大觀音</h3>
-<p>最後，因為經過了大觀音，みっこさん就帶我們順路來看看。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (18).jpg"
-                     width=300px
-                >
-</figure>
-</br>
-仙台大觀音建於1991年，為了慶祝仙台市迎來100周年，比自由女神高了7公尺，是日本第二高的觀音像。觀音內還有數不盡的其他佛像，但因為晚上了無法進入，所以在周圍逛一逛就離開了。
-<h3 id="晚餐"><a class="header-anchor" href="#晚餐"></a>晚餐</h3>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (25).jpg"
-                     width=500px
-                >
-</figure>
-</br>
-晚上みっこさん帶我們來到善治郎吃仙台的名物ー牛舌。之前烤肉看到的都是薄薄的一片，這還是第一次看到這麼厚的牛舌，而且不只是外表震撼，口感也超讚，比起其他部位的肉有種脆脆的口感。
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241129 (19).jpg"
-                     width=500px
-                >
-</figure>
-<h3 id="總結"><a class="header-anchor" href="#總結"></a>總結</h3>
-<p>今天的行程都是在山區內，如果只靠大眾運輸肯定跑不完，真是謝謝みっこさん擔任駕駛陪了我們一整天。一路上吹著風，看自然風景，還喝了酒，又是愜意的一天。還有晚餐的牛舌實在是令我印象深刻，還想回去吃一次的那種，推薦大家去仙台一定要去吃！</p>
-]]></content>
-      <tags>
-        <tag>交換</tag>
-        <tag>旅遊</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>仙台旅 Day4</title>
-    <url>/2024/11/30/sendai-4/</url>
-    <content><![CDATA[<p>今天的行程只有一個，而且靠電車就能抵達，所以不用再麻煩みっこさん她們了，真的是謝謝她們為我們擔任的三天的駕駛，期待晚上再見！</p>
-<h3 id="松島"><a class="header-anchor" href="#松島"></a>松島</h3>
-<p>仙台站有直達松島的車，大約半小時左右就可以抵達。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (1).jpg"
-                     width=500px
-                >
-<figcaption>雖然還有個松島駅，但其實在松島海岸駅下車比較近</figcaption>
+<figcaption>大約半小時抵達今天的第一站</figcaption>
 </figure>
 
   <div class="note-large green">
     <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>松島</p>
+      <p>仙台城</p>
 
     </div>
     <div class="notel-content">
-      <p>松島位於宮城縣東北部，由260座種滿了松樹的小島構成，沒錯，「松島」就是以松樹而聞名，是有名的『日本三景』之一。</p>
+      <p>仙台城（因為建於青葉山上故又稱青葉城），由伊達正宗於關原之戰結束後建造，並在此後作為伊達家的居城，於仙台空襲中燒毀，現在僅剩下角落的瞭望台。</p>
 <figure class="image-caption">
 <table><tr>
 <td><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (2).jpg"
+                     data-src="20241201 (3).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241201 (12).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+</figure>
+    </div>
+  </div>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241201 (4).jpg"
+                     width=500px
+                >
+<figcaption>宮城縣的護國神社也在城跡內</figcaption>
+</figure>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>護國神社</p>
+
+    </div>
+    <div class="notel-content">
+      <p>為了弔念殉職的自衛官和警察，日本各縣都有設立所謂的「招魂社」，但由於「招魂」是特定時間的行為，與為永久設施的「社」含義衝突，於是在之後將東京的招魂設改名為靖國神社，而各地的招魂社則改名為護國神社。<br>
+護國神社基本上是1府縣1社，但北海道有3社，而岐阜縣、兵庫縣、島根縣、廣島縣因為縣內有多個陸軍聯隊故設有2社。</p>
+
+    </div>
+  </div>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241201 (5).jpg"
                       border=0 style="height:300px;"
                 ></td>
 <td><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (3).jpg"
+                     data-src="20241201 (6).jpg"
                       border=0 style="height:300px;"
                 ></td>
-<figcaption></figcaption>
 </tr></table>
 </figure>
-    </div>
-  </div>
-<p>這裡可以搭船繞整區一圈，還會介紹一些特別形狀的岩石。順帶一提，這裡的台灣人真的超多的，從下車就能聽到台灣人的聲音，搭船的地點有兩團旅行團，也都是台灣的，甚至搭船時前後也都是台灣人。</p>
 <figure class="image-caption">
 <table><tr>
 <td><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (6).jpg"
-                      border=0 style="height:330px;"
+                     data-src="20241201 (8).jpg"
+                      border=0 style="height:300px;"
                 ></td>
 <td><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (7).jpg"
-                      border=0 style="height:330px;"
+                     data-src="20241201 (9).jpg"
+                      border=0 style="height:300px;"
                 ></td>
+<figcaption>神社旁剛好有二戰史跟軍艦模型的展覽就順道看了一下</figcaption>
 </tr></table>
 </figure>
-</br>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241201 (11).jpg"
+                     width=500px
+                >
+<figcaption>從瞭望台上可以看到整個仙台市</figcaption>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241201 (12).jpg"
+                     width=300px
+                >
+<figcaption>資料館內有當時仙台城的模型以及影片介紹</figcaption>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241201 (14).jpg"
+                     width=300px
+                >
+<figcaption>上面有麻雀造型雞蛋糕的冰淇淋</figcaption>
+</figure>
 
-  <div class="note-large red">
+  <div class="note p-4 mb-4 rounded-small blue">
+    <p>伊達家的家紋為「竹雀」，也有人說是當時負責砌城牆的石匠們即興的舞蹈像麻雀，於是麻雀就成為了仙台城的吉祥物</p>
+
+  </div>
+<h3 id="大崎八幡宫"><a class="header-anchor" href="#大崎八幡宫"></a>大崎八幡宫</h3>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241201 (15).jpg"
+                     width=500px
+                >
+<figcaption>後來才注意到八幡公的「八」特地畫成了兩隻麻雀</figcaption>
+</figure>
+
+  <div class="note-large green">
     <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>松島溫泉</p>
+      <p>大崎八幡宫</p>
 
     </div>
     <div class="notel-content">
-      <p>松島除了風景外，溫泉也很有名。沒想到為了騙宅宅的錢把溫泉也娘化了，前天去的秋保溫泉也在，甚至還有台灣的尖石溫泉。可惜之前不知道，不然就在秋保買一個紀念了。</p>
+      <p>大崎八幡宫由伊達正宗所建，每年會1月14日舉行「松焚祭（どんと祭）」，焚燒松飾與舊符籙祈求新的一年無病息災、商業繁盛。</p>
 <figure class="image-caption">
-<table><tr>
-<td><img  
+<img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (4).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (5).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-</tr></table>
-<figcaption>櫃台的周邊似乎都是去過其他溫泉買過周邊的粉絲帶來的，這個數量也太扯，真的超有愛</figcaption>
+                     data-src="20241201 (16).jpg"
+                     width=500px
+                >
 </figure>
     </div>
   </div>
-<h4 id="午餐"><a class="header-anchor" href="#午餐"></a>午餐</h4>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (8).jpg"
-                     width=300px
-                >
-<figcaption>午餐前吃了個牡蠣咖哩麵包，咖哩味道有點把牡蠣的味道給蓋過了，不過對討厭海鮮腥味的人來說可能不錯</figcaption>
-</figure>
-<p>午餐吃了附近的一間海產店，明明是觀光地但沒有特別貴，在台灣被觀光地盤久了有點驚訝。本餐由富豪朋友贊助，感謝大佬。</p>
+<h3 id="AER頂樓"><a class="header-anchor" href="#AER頂樓"></a>AER頂樓</h3>
+<p>AER是仙台駅旁的商業大樓，頂樓的觀景台可以免費上去，能從大樓前後兩側眺望仙台市</p>
 <figure class="image-caption">
 <table><tr>
 <td><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (10).jpg"
+                     data-src="20241201 (17).jpg"
                       border=0 style="height:330px;"
                 ></td>
 <td><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (9).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-</tr></table>
-<figcaption>牡蠣摸牡蠣，鴨蛋摸鴨蛋</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (11).jpg"
-                     width=300px
-                >
-<figcaption>吃完後經過了一間賣仙台的特產ー笹かまぼこ的店，還可以讓客人自己烤，於是就買來試試了，味道有點像魚板（？</figcaption>
-</figure>
-<h4 id="福浦島"><a class="header-anchor" href="#福浦島"></a>福浦島</h4>
-<p>接著來到所有島中唯二可以登島參觀的島其中之一的「福浦島」，從本島走過一條長長的「福浦橋」就可以抵達，福浦橋在311時曾被海嘯破壞，在台灣的捐款下得以重建，也因此橋旁有個「台日友誼之橋」的看板。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (12).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (14).jpg"
+                     data-src="20241201 (21).jpg"
                       border=0 style="height:330px;"
                 ></td>
 </tr></table>
 </figure>
-</br>
-</br>
-福浦島範圍不大，大概1小時內就能逛完，島上有岩岸也有沙灘，而秋天除了松樹也能看到不少楓葉。
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (15).jpg"
-                      border=1 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (16).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-</figure>
-</br>
-
-  <div class="note p-4 mb-4 rounded-small yellow">
-    <p>原本還想去多賀城的，結果到時已經關門了，所幸車站可以拿限定的御城印，下次來時再補參觀吧。</p>
+<h3 id="回程"><a class="header-anchor" href="#回程"></a>回程</h3>
+<p>回程搭的是新幹線，在月台等車時，三人突然從背後登場差點嚇死，原來是為了給我們驚喜埋伏在月台。大家一起短暫回顧了這幾天的旅程，每個瞬間都鮮明地浮現眼前。感謝這段珍貴的時光，希望未來還能再見。</p>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (17).jpg"
-                     width=300px
-                >
-</figure>
-  </div>
-<h3 id="瑞鳳殿"><a class="header-anchor" href="#瑞鳳殿"></a>瑞鳳殿</h3>
-<p>之前聽みっこさん說過這幾天瑞鳳殿有燈光秀，剛好離晚餐還有些時間就去參觀了一下</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (19).jpg"
-                     width=300px
-                >
-</figure>
-<h4 id="歷史"><a class="header-anchor" href="#歷史"></a>歷史</h4>
-<p>瑞鳳殿是戰國武將「伊達政宗」的陵墓，1931年被指定為日本國寶。然而在二戰末期仙台空襲時遭美軍轟炸摧毀，直到1974年才依照歷史資料進行重建，並將重建前挖掘到的遺物與遺骨保存於旁邊的資料館中。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (21).jpg"
-                      border=1 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (22).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-</figure>
-</br>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>伊達政宗</p>
-
-    </div>
-    <div class="notel-content">
-      <p>伊達政宗出生於戰國晚期，在5歲時因天花而導致右眼失明，但其出色的軍事能力仍創造了許多的功績，且在24歲時消滅了蘆名氏，奪得福島縣和宮城縣的大片領土，成為東北地區領土最大的勢力，被後世尊稱為「獨眼龍」。<br>
-在關原之戰結束分封到了仙台附近的領土後，政宗成為仙台藩初代藩主，並開始著力經營仙台藩。在他的治理下，仙台成為了日本最主要的稻米產地，也是日本生產力第三高的城市。</p>
-
-    </div>
-  </div>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (20).jpg"
+                     data-src="20241201 (22).jpg"
                      width=500px
                 >
-<figcaption>晚點似乎還有表演，演員在表演前就先幫大家導覽，可惜來不及看到</figcaption>
 </figure>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (18).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241130 (23).jpg"
-                      border=0 style="height:330px;"
-                ></td>
-</tr></table>
-</figure>
-<h3 id="晚餐"><a class="header-anchor" href="#晚餐"></a>晚餐</h3>
-<p>晚上ゆみこさん邀我們到家裡跟三人的家人一起吃飯，自從高中的教育旅行後，好久沒有踏入這種傳統的日式房子了。</p>
+</br>
+正式道別完後，搭上回程的列車，才剛坐下，三人就拿起手作的牌子，笑著揮手送別。真的是感動到要哭出來了，這次不只是一次旅行的結束，而是友情的延續——期待未來三人來台灣時，也能為她們留下同樣深刻的回憶。
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (25).jpg"
+                     data-src="20241201 (18).jpg"
                      width=500px
                 >
-<figcaption>ゆみこさん的手藝真的強，不說還以為是餐廳的料理</figcaption>
 </figure>
-<p>大家都很和善，從踏入門內就開始熱情地跟我們搭話，期間一個大叔還一直講諧音梗搞笑，讓大家即使是第一次見面也絲毫沒有生疏感，話題也從未中斷過，從生活瑣事到彼此的過去，大家都愉快地分享自己的故事。沒想到在這異國的旅行也會有「家」的味道。</p>
+</br>
+</br>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241130 (24).jpg"
-                     width=500px
+                     data-src="20241201 (19).jpg"
+                     width=300px
                 >
-<figcaption>從沒想到那天在水戶搞錯車次能有如此收穫，真的是個奇妙的緣分</figcaption>
+<figcaption>我只是看到初音就買了</figcaption>
 </figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>仙台旅</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>土浦城</title>
-    <url>/2024/09/28/tsuchiura/</url>
-    <content><![CDATA[<h2 id="土浦魚市場"><a class="header-anchor" href="#土浦魚市場"></a>土浦魚市場</h2>
-<p>網上看到1500(約330NT)有鮪魚可以吃到飽眼睛一亮，於是抱著就算是噱頭也要一試的心情來了。距離學校大約自行車45min的距離，說遠不遠，但也不算近。</p>
-
-  <div class="note p-4 mb-4 rounded-small yellow">
-    <p>門口有台食券機，有個まぐろ放題的按鈕，要選那個才有吃到飽，其他的海膽或鮭魚丼飯等等都是只有一碗的。</p>
-
-  </div>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928.jpg"
-                     width=500px
-                >
-<figcaption>只有周六才有吃到飽喔，其他天只有一般的定食，不過也比餐廳便宜，也推薦試試看。</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928 (2).jpg"
-                     width=500px
-                >
-<figcaption>除了碗裡的三種鮪魚外，還有醃漬過跟應該是燙過一下的兩種生魚片，此外，白飯、沙拉跟味噌湯也是可以續的，但壽司不能</figcaption>
-</figure>
-<p>雖然可以感覺出不是高級的鮪魚，但只有1500而且有五種料理方式或部位的鮪魚可以選來避免一直吃同一種吃膩，個人覺得超級賺，這就是海鮮大國的餘裕嗎</p>
-<h2 id="土浦城博物館"><a class="header-anchor" href="#土浦城博物館"></a>土浦城博物館</h2>
-<p>快正午時抵達土浦城，繞了一圈才發現原來這邊只是城址，而且只有復原一些圍牆跟城門，並沒有主城。</p>
-<p>在絕望下發現了旁邊還有這間博物館，於是就抱著多少吹個冷氣的心情進來了。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928 (3).jpg"
-                     width=250px
-                >
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928 (4).jpg"
-                     width=500px
-                >
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928 (5).jpg"
-                     width=500px
-                >
-<figcaption>江戶時期的土浦城主ー土屋家的佩刀</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928 (6).jpg"
-                     width=300px
-                >
-<figcaption>當時用來運輸用的主要船隻「高瀨船」</figcaption>
-</figure>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>熱知識</p>
-
-    </div>
-    <div class="notel-content">
-      <p>土浦位於日本第二大湖「霞ヶ浦」旁，而霞ヶ浦在江戶時期前是內海，因此在櫻川出海口的土浦城也理所當然地成為海運的重要城市。</p>
-
-    </div>
-  </div>
-<p>原本因為城址太無聊所以來晃晃，沒想到這裡的歷史意外的有趣。這就是所謂「人間万事塞翁が馬」(塞翁失馬，焉知非福)吧</p>
-<h2 id="土浦城（つちうらじょう）（亀城公園）"><a class="header-anchor" href="#土浦城（つちうらじょう）（亀城公園）"></a>土浦城（つちうらじょう）（亀城公園）</h2>
-<p>逛完岔不多快2點多，看太陽也沒中午那麼熱就過來城址這邊了</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928 (7).jpg"
-                     width=500px
-                >
-<figcaption>博物館跟城址間的橋，周邊的護城河也有進行復原</figcaption>
-</figure>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>熱知識</p>
-
-    </div>
-    <div class="notel-content">
-      <p>因為護城河以及城址公園的形狀，從上方看就像隻浮在水上的烏龜，因此也被稱作亀城（きじょう）公園</p>
-
-    </div>
-  </div>
-<h3 id="土浦城歷史"><a class="header-anchor" href="#土浦城歷史"></a>土浦城歷史</h3>
-<h5 id="室町時代以前"><a class="header-anchor" href="#室町時代以前"></a>室町時代以前</h5>
-<p>平安時代的天慶年間，傳說平將門在平安時代曾在此建立砦（とりで），但並無文獻記載。</p>
-
-  <div class="note-large green">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>單字補充</p>
-
-    </div>
-    <div class="notel-content">
-      <p>砦（とりで）：在主城外，用來協防的小型城堡</p>
-
-    </div>
-  </div>
-<h5 id="室町時代到安土桃山時代"><a class="header-anchor" href="#室町時代到安土桃山時代"></a>室町時代到安土桃山時代</h5>
-<ul>
-<li>1429年到1441年間，當時的常陸守護八田知家的後裔、小田氏的屬臣若泉三郎建造了土浦城。</li>
-<li>1516年，小田氏的部將菅谷勝貞打敗了若泉五郎右衛門，並接管了城池。</li>
-</ul>
-<h5 id="戰國時代"><a class="header-anchor" href="#戰國時代"></a>戰國時代</h5>
-<ul>
-<li>佐竹氏勢力逐漸壯大，迫使小田守治放棄小田城，逃至土浦城。</li>
-<li>1583年，小田氏治向佐竹氏投降</li>
-<li>1590年，菅谷範政在豐臣秀吉的小田原征伐中與後北條氏聯手，遭到佐竹氏與德川家康的軍隊進攻，與主君小田氏一同滅亡。</li>
-<li>德川家康入主關東後，將土浦城賜給其次子結城秀康（當時入贅結城氏），作為領地中的支城。秀康遷至越前國北之庄後，藤井松平家的松平信一以3萬5千石入封土浦城，並由信一與其子信吉完成了城池的大部分現有結構。</li>
-</ul>
-<h5 id="江戶時代"><a class="header-anchor" href="#江戶時代"></a>江戶時代</h5>
-<ul>
-<li>1617年，松平信吉遷封至上野國高崎，西尾忠永入主土浦城。由兒子忠照，修建了西櫓和東櫓，並將本丸正門改建為櫓門。至此，本丸由水堀、土壘和三座櫓構成防禦體系。</li>
-<li>1649年，西尾忠照遷封至駿河國田中，朽木稙綱接任城主，將櫓門改建為現今的太鼓櫓門，並將土壘上的所有圍牆改為瓦片。</li>
-<li>1669年，土屋數直入主土浦城。除松平信興時期外，土浦城在此後的江戶時代皆由土屋家統治直到明治維新。</li>
-</ul>
-
-  <div class="note-large red">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>熱知識</p>
-
-    </div>
-    <div class="notel-content">
-      <p>在311地震中，土浦城嚴重受損，東櫓展覽館被迫關閉。直至2012年6月22日，修復工程完成，並於同年6月30日起陸續重新對外開放。<br>
-2017年4月6日，土浦城被選入續日本100名城（編號113）。</p>
-
-    </div>
-  </div>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928 (8).jpg"
-                     width=500px
-                >
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928 (9).jpg"
-                     width=500px
-                >
-<figcaption>城牆內部</figcaption>
-</figure>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20240928 (10).jpg"
-                     width=500px
-                >
-<figcaption>東櫓內部有開放參觀，入場票與博物館共用同一張</figcaption>
-</figure>
-
-  <div class="note-large blue">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>冷知識</p>
-
-    </div>
-    <div class="notel-content">
-      <p>土浦城的櫓門似乎是關東地方唯一自江戶時期遺留下來的</p>
-
-    </div>
-  </div>
-
-  <div class="note-large green">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>單字補充</p>
-
-    </div>
-    <div class="notel-content">
-      <p>櫓（やぐら）：城門或城牆上的瞭望塔</p>
-
-    </div>
-  </div>
-<h2 id="總結"><a class="header-anchor" href="#總結"></a>總結</h2>
-<p>土浦城作為距離筑波大最近的百大名城，自行車也只需要不到一個小時，相較於上次筑波山的行程輕鬆了不是一點半點。不想騎車的也有公車可以直接從筑波到土浦再走10多分應該也能到，博物館票價不貴，記載的歷史也很詳細，推薦對歷史有興趣的人可以來看看。</p>
-<p>還有鮪魚生魚片吃到飽也超推，我還是第一次吃這麼多的生魚片，已經暫時不想看到鮪魚了_(┐「﹃ﾟ｡)_</p>
-]]></content>
-      <tags>
-        <tag>交換</tag>
-        <tag>旅遊</tag>
-        <tag>自行車</tag>
       </tags>
   </entry>
   <entry>
@@ -4332,6 +4147,10 @@
 
   </div>
 ]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>其他</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
@@ -4339,215 +4158,476 @@
       </tags>
   </entry>
   <entry>
-    <title>仙台旅 Day5</title>
-    <url>/2024/12/01/sendai-5/</url>
-    <content><![CDATA[<p>之前聽みっこさん提到仙台有一條環繞市內景點的觀光巴士路線，所以今天的行程就決定是參觀沿線的景點了。<br>
-</br><br>
-也許因為是假日，排隊等公車的人還滿多的。雖然20分鐘有一班，但我們兩班後才成功上車(´･_･`)</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (1).jpg"
-                     width=300px
-                >
-<figcaption>公車造型還挺可愛</figcaption>
-</figure>
-<h3 id="仙台城（青葉城）"><a class="header-anchor" href="#仙台城（青葉城）"></a>仙台城（青葉城）</h3>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (2).jpg"
-                     width=300px
-                >
-<figcaption>大約半小時抵達今天的第一站</figcaption>
-</figure>
+    <title>土浦城</title>
+    <url>/2024/09/28/tsuchiura/</url>
+    <content><![CDATA[<h2 id="土浦魚市場"><a class="header-anchor" href="#土浦魚市場"></a>土浦魚市場</h2>
+<p>網上看到1500(約330NT)有鮪魚可以吃到飽眼睛一亮，於是抱著就算是噱頭也要一試的心情來了。距離學校大約自行車45min的距離，說遠不遠，但也不算近。</p>
 
-  <div class="note-large green">
-    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>仙台城</p>
+  <div class="note p-4 mb-4 rounded-small yellow">
+    <p>門口有台食券機，有個まぐろ放題的按鈕，要選那個才有吃到飽，其他的海膽或鮭魚丼飯等等都是只有一碗的。</p>
 
-    </div>
-    <div class="notel-content">
-      <p>仙台城（因為建於青葉山上故又稱青葉城），由伊達正宗於關原之戰結束後建造，並在此後作為伊達家的居城，於仙台空襲中燒毀，現在僅剩下角落的瞭望台。</p>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (3).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (12).jpg"
-                      border=0 style="height:400px;"
-                ></td>
-</tr></table>
-</figure>
-    </div>
   </div>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241201 (4).jpg"
+                     data-src="20240928.jpg"
                      width=500px
                 >
-<figcaption>宮城縣的護國神社也在城跡內</figcaption>
+<figcaption>只有周六才有吃到飽喔，其他天只有一般的定食，不過也比餐廳便宜，也推薦試試看。</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20240928 (2).jpg"
+                     width=500px
+                >
+<figcaption>除了碗裡的三種鮪魚外，還有醃漬過跟應該是燙過一下的兩種生魚片，此外，白飯、沙拉跟味噌湯也是可以續的，但壽司不能</figcaption>
+</figure>
+<p>雖然可以感覺出不是高級的鮪魚，但只有1500而且有五種料理方式或部位的鮪魚可以選來避免一直吃同一種吃膩，個人覺得超級賺，這就是海鮮大國的餘裕嗎</p>
+<h2 id="土浦城博物館"><a class="header-anchor" href="#土浦城博物館"></a>土浦城博物館</h2>
+<p>快正午時抵達土浦城，繞了一圈才發現原來這邊只是城址，而且只有復原一些圍牆跟城門，並沒有主城。</p>
+<p>在絕望下發現了旁邊還有這間博物館，於是就抱著多少吹個冷氣的心情進來了。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20240928 (3).jpg"
+                     width=250px
+                >
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20240928 (4).jpg"
+                     width=500px
+                >
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20240928 (5).jpg"
+                     width=500px
+                >
+<figcaption>江戶時期的土浦城主ー土屋家的佩刀</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20240928 (6).jpg"
+                     width=300px
+                >
+<figcaption>當時用來運輸用的主要船隻「高瀨船」</figcaption>
 </figure>
 
   <div class="note-large red">
     <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>護國神社</p>
+      <p>熱知識</p>
 
     </div>
     <div class="notel-content">
-      <p>為了弔念殉職的自衛官和警察，日本各縣都有設立所謂的「招魂社」，但由於「招魂」是特定時間的行為，與為永久設施的「社」含義衝突，於是在之後將東京的招魂設改名為靖國神社，而各地的招魂社則改名為護國神社。<br>
-護國神社基本上是1府縣1社，但北海道有3社，而岐阜縣、兵庫縣、島根縣、廣島縣因為縣內有多個陸軍聯隊故設有2社。</p>
+      <p>土浦位於日本第二大湖「霞ヶ浦」旁，而霞ヶ浦在江戶時期前是內海，因此在櫻川出海口的土浦城也理所當然地成為海運的重要城市。</p>
+
+    </div>
+  </div>
+<p>原本因為城址太無聊所以來晃晃，沒想到這裡的歷史意外的有趣。這就是所謂「人間万事塞翁が馬」(塞翁失馬，焉知非福)吧</p>
+<h2 id="土浦城（つちうらじょう）（亀城公園）"><a class="header-anchor" href="#土浦城（つちうらじょう）（亀城公園）"></a>土浦城（つちうらじょう）（亀城公園）</h2>
+<p>逛完岔不多快2點多，看太陽也沒中午那麼熱就過來城址這邊了</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20240928 (7).jpg"
+                     width=500px
+                >
+<figcaption>博物館跟城址間的橋，周邊的護城河也有進行復原</figcaption>
+</figure>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>熱知識</p>
+
+    </div>
+    <div class="notel-content">
+      <p>因為護城河以及城址公園的形狀，從上方看就像隻浮在水上的烏龜，因此也被稱作亀城（きじょう）公園</p>
+
+    </div>
+  </div>
+<h3 id="土浦城歷史"><a class="header-anchor" href="#土浦城歷史"></a>土浦城歷史</h3>
+<h5 id="室町時代以前"><a class="header-anchor" href="#室町時代以前"></a>室町時代以前</h5>
+<p>平安時代的天慶年間，傳說平將門在平安時代曾在此建立砦（とりで），但並無文獻記載。</p>
+
+  <div class="note-large green">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>單字補充</p>
+
+    </div>
+    <div class="notel-content">
+      <p>砦（とりで）：在主城外，用來協防的小型城堡</p>
+
+    </div>
+  </div>
+<h5 id="室町時代到安土桃山時代"><a class="header-anchor" href="#室町時代到安土桃山時代"></a>室町時代到安土桃山時代</h5>
+<ul>
+<li>1429年到1441年間，當時的常陸守護八田知家的後裔、小田氏的屬臣若泉三郎建造了土浦城。</li>
+<li>1516年，小田氏的部將菅谷勝貞打敗了若泉五郎右衛門，並接管了城池。</li>
+</ul>
+<h5 id="戰國時代"><a class="header-anchor" href="#戰國時代"></a>戰國時代</h5>
+<ul>
+<li>佐竹氏勢力逐漸壯大，迫使小田守治放棄小田城，逃至土浦城。</li>
+<li>1583年，小田氏治向佐竹氏投降</li>
+<li>1590年，菅谷範政在豐臣秀吉的小田原征伐中與後北條氏聯手，遭到佐竹氏與德川家康的軍隊進攻，與主君小田氏一同滅亡。</li>
+<li>德川家康入主關東後，將土浦城賜給其次子結城秀康（當時入贅結城氏），作為領地中的支城。秀康遷至越前國北之庄後，藤井松平家的松平信一以3萬5千石入封土浦城，並由信一與其子信吉完成了城池的大部分現有結構。</li>
+</ul>
+<h5 id="江戶時代"><a class="header-anchor" href="#江戶時代"></a>江戶時代</h5>
+<ul>
+<li>1617年，松平信吉遷封至上野國高崎，西尾忠永入主土浦城。由兒子忠照，修建了西櫓和東櫓，並將本丸正門改建為櫓門。至此，本丸由水堀、土壘和三座櫓構成防禦體系。</li>
+<li>1649年，西尾忠照遷封至駿河國田中，朽木稙綱接任城主，將櫓門改建為現今的太鼓櫓門，並將土壘上的所有圍牆改為瓦片。</li>
+<li>1669年，土屋數直入主土浦城。除松平信興時期外，土浦城在此後的江戶時代皆由土屋家統治直到明治維新。</li>
+</ul>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>熱知識</p>
+
+    </div>
+    <div class="notel-content">
+      <p>在311地震中，土浦城嚴重受損，東櫓展覽館被迫關閉。直至2012年6月22日，修復工程完成，並於同年6月30日起陸續重新對外開放。<br>
+2017年4月6日，土浦城被選入續日本100名城（編號113）。</p>
 
     </div>
   </div>
 <figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (5).jpg"
-                      border=0 style="height:300px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (6).jpg"
-                      border=0 style="height:300px;"
-                ></td>
-</tr></table>
-</figure>
-<figure class="image-caption">
-<table><tr>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (8).jpg"
-                      border=0 style="height:300px;"
-                ></td>
-<td><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (9).jpg"
-                      border=0 style="height:300px;"
-                ></td>
-<figcaption>神社旁剛好有二戰史跟軍艦模型的展覽就順道看了一下</figcaption>
-</tr></table>
-</figure>
-<figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241201 (11).jpg"
+                     data-src="20240928 (8).jpg"
                      width=500px
                 >
-<figcaption>從瞭望台上可以看到整個仙台市</figcaption>
+</figure>
+<figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241201 (12).jpg"
-                     width=300px
+                     data-src="20240928 (9).jpg"
+                     width=500px
                 >
-<figcaption>資料館內有當時仙台城的模型以及影片介紹</figcaption>
+<figcaption>城牆內部</figcaption>
+</figure>
+<figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241201 (14).jpg"
-                     width=300px
+                     data-src="20240928 (10).jpg"
+                     width=500px
                 >
-<figcaption>上面有麻雀造型雞蛋糕的冰淇淋</figcaption>
+<figcaption>東櫓內部有開放參觀，入場票與博物館共用同一張</figcaption>
 </figure>
 
-  <div class="note p-4 mb-4 rounded-small blue">
-    <p>伊達家的家紋為「竹雀」，也有人說是當時負責砌城牆的石匠們即興的舞蹈像麻雀，於是麻雀就成為了仙台城的吉祥物</p>
+  <div class="note-large blue">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>冷知識</p>
 
+    </div>
+    <div class="notel-content">
+      <p>土浦城的櫓門似乎是關東地方唯一自江戶時期遺留下來的</p>
+
+    </div>
   </div>
-<h3 id="大崎八幡宫"><a class="header-anchor" href="#大崎八幡宫"></a>大崎八幡宫</h3>
+
+  <div class="note-large green">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>單字補充</p>
+
+    </div>
+    <div class="notel-content">
+      <p>櫓（やぐら）：城門或城牆上的瞭望塔</p>
+
+    </div>
+  </div>
+<h2 id="總結"><a class="header-anchor" href="#總結"></a>總結</h2>
+<p>土浦城作為距離筑波大最近的百大名城，自行車也只需要不到一個小時，相較於上次筑波山的行程輕鬆了不是一點半點。不想騎車的也有公車可以直接從筑波到土浦再走10多分應該也能到，博物館票價不貴，記載的歷史也很詳細，推薦對歷史有興趣的人可以來看看。</p>
+<p>還有鮪魚生魚片吃到飽也超推，我還是第一次吃這麼多的生魚片，已經暫時不想看到鮪魚了_(┐「﹃ﾟ｡)_</p>
+]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>交換</tag>
+        <tag>旅遊</tag>
+        <tag>自行車</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>仙台旅 Day4</title>
+    <url>/2024/11/30/sendai-4/</url>
+    <content><![CDATA[<p>今天的行程只有一個，而且靠電車就能抵達，所以不用再麻煩みっこさん她們了，真的是謝謝她們為我們擔任的三天的駕駛，期待晚上再見！</p>
+<h3 id="松島"><a class="header-anchor" href="#松島"></a>松島</h3>
+<p>仙台站有直達松島的車，大約半小時左右就可以抵達。</p>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241201 (15).jpg"
+                     data-src="20241130 (1).jpg"
                      width=500px
                 >
-<figcaption>後來才注意到八幡公的「八」特地畫成了兩隻麻雀</figcaption>
+<figcaption>雖然還有個松島駅，但其實在松島海岸駅下車比較近</figcaption>
 </figure>
 
   <div class="note-large green">
     <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
-      <p>大崎八幡宫</p>
+      <p>松島</p>
 
     </div>
     <div class="notel-content">
-      <p>大崎八幡宫由伊達正宗所建，每年會1月14日舉行「松焚祭（どんと祭）」，焚燒松飾與舊符籙祈求新的一年無病息災、商業繁盛。</p>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (16).jpg"
-                     width=500px
-                >
-</figure>
-    </div>
-  </div>
-<h3 id="AER頂樓"><a class="header-anchor" href="#AER頂樓"></a>AER頂樓</h3>
-<p>AER是仙台駅旁的商業大樓，頂樓的觀景台可以免費上去，能從大樓前後兩側眺望仙台市</p>
+      <p>松島位於宮城縣東北部，由260座種滿了松樹的小島構成，沒錯，「松島」就是以松樹而聞名，是有名的『日本三景』之一。</p>
 <figure class="image-caption">
 <table><tr>
 <td><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241201 (17).jpg"
+                     data-src="20241130 (2).jpg"
+                      border=0 style="height:300px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (3).jpg"
+                      border=0 style="height:300px;"
+                ></td>
+<figcaption></figcaption>
+</tr></table>
+</figure>
+    </div>
+  </div>
+<p>這裡可以搭船繞整區一圈，還會介紹一些特別形狀的岩石。順帶一提，這裡的台灣人真的超多的，從下車就能聽到台灣人的聲音，搭船的地點有兩團旅行團，也都是台灣的，甚至搭船時前後也都是台灣人。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (6).jpg"
                       border=0 style="height:330px;"
                 ></td>
 <td><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241201 (21).jpg"
+                     data-src="20241130 (7).jpg"
                       border=0 style="height:330px;"
                 ></td>
 </tr></table>
 </figure>
-<h3 id="回程"><a class="header-anchor" href="#回程"></a>回程</h3>
-<p>回程搭的是新幹線，在月台等車時，三人突然從背後登場差點嚇死，原來是為了給我們驚喜埋伏在月台。大家一起短暫回顧了這幾天的旅程，每個瞬間都鮮明地浮現眼前。感謝這段珍貴的時光，希望未來還能再見。</p>
+</br>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>松島溫泉</p>
+
+    </div>
+    <div class="notel-content">
+      <p>松島除了風景外，溫泉也很有名。沒想到為了騙宅宅的錢把溫泉也娘化了，前天去的秋保溫泉也在，甚至還有台灣的尖石溫泉。可惜之前不知道，不然就在秋保買一個紀念了。</p>
 <figure class="image-caption">
-<img  
+<table><tr>
+<td><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241201 (22).jpg"
-                     width=500px
-                >
+                     data-src="20241130 (4).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (5).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+</tr></table>
+<figcaption>櫃台的周邊似乎都是去過其他溫泉買過周邊的粉絲帶來的，這個數量也太扯，真的超有愛</figcaption>
 </figure>
-</br>
-正式道別完後，搭上回程的列車，才剛坐下，三人就拿起手作的牌子，笑著揮手送別。真的是感動到要哭出來了，這次不只是一次旅行的結束，而是友情的延續——期待未來三人來台灣時，也能為她們留下同樣深刻的回憶。
+    </div>
+  </div>
+<h4 id="午餐"><a class="header-anchor" href="#午餐"></a>午餐</h4>
 <figure class="image-caption">
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="20241201 (18).jpg"
-                     width=500px
-                >
-</figure>
-</br>
-</br>
-<figure class="image-caption">
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="20241201 (19).jpg"
+                     data-src="20241130 (8).jpg"
                      width=300px
                 >
-<figcaption>我只是看到初音就買了</figcaption>
+<figcaption>午餐前吃了個牡蠣咖哩麵包，咖哩味道有點把牡蠣的味道給蓋過了，不過對討厭海鮮腥味的人來說可能不錯</figcaption>
+</figure>
+<p>午餐吃了附近的一間海產店，明明是觀光地但沒有特別貴，在台灣被觀光地盤久了有點驚訝。本餐由富豪朋友贊助，感謝大佬。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (10).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (9).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+</tr></table>
+<figcaption>牡蠣摸牡蠣，鴨蛋摸鴨蛋</figcaption>
+</figure>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (11).jpg"
+                     width=300px
+                >
+<figcaption>吃完後經過了一間賣仙台的特產ー笹かまぼこ的店，還可以讓客人自己烤，於是就買來試試了，味道有點像魚板（？</figcaption>
+</figure>
+<h4 id="福浦島"><a class="header-anchor" href="#福浦島"></a>福浦島</h4>
+<p>接著來到所有島中唯二可以登島參觀的島其中之一的「福浦島」，從本島走過一條長長的「福浦橋」就可以抵達，福浦橋在311時曾被海嘯破壞，在台灣的捐款下得以重建，也因此橋旁有個「台日友誼之橋」的看板。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (12).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (14).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+</tr></table>
+</figure>
+</br>
+</br>
+福浦島範圍不大，大概1小時內就能逛完，島上有岩岸也有沙灘，而秋天除了松樹也能看到不少楓葉。
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (15).jpg"
+                      border=1 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (16).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+</figure>
+</br>
+
+  <div class="note p-4 mb-4 rounded-small yellow">
+    <p>原本還想去多賀城的，結果到時已經關門了，所幸車站可以拿限定的御城印，下次來時再補參觀吧。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (17).jpg"
+                     width=300px
+                >
+</figure>
+  </div>
+<h3 id="瑞鳳殿"><a class="header-anchor" href="#瑞鳳殿"></a>瑞鳳殿</h3>
+<p>之前聽みっこさん說過這幾天瑞鳳殿有燈光秀，剛好離晚餐還有些時間就去參觀了一下</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (19).jpg"
+                     width=300px
+                >
+</figure>
+<h4 id="歷史"><a class="header-anchor" href="#歷史"></a>歷史</h4>
+<p>瑞鳳殿是戰國武將「伊達政宗」的陵墓，1931年被指定為日本國寶。然而在二戰末期仙台空襲時遭美軍轟炸摧毀，直到1974年才依照歷史資料進行重建，並將重建前挖掘到的遺物與遺骨保存於旁邊的資料館中。</p>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (21).jpg"
+                      border=1 style="height:400px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (22).jpg"
+                      border=0 style="height:400px;"
+                ></td>
+</tr></table>
+</figure>
+</br>
+
+  <div class="note-large red">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <p>伊達政宗</p>
+
+    </div>
+    <div class="notel-content">
+      <p>伊達政宗出生於戰國晚期，在5歲時因天花而導致右眼失明，但其出色的軍事能力仍創造了許多的功績，且在24歲時消滅了蘆名氏，奪得福島縣和宮城縣的大片領土，成為東北地區領土最大的勢力，被後世尊稱為「獨眼龍」。<br>
+在關原之戰結束分封到了仙台附近的領土後，政宗成為仙台藩初代藩主，並開始著力經營仙台藩。在他的治理下，仙台成為了日本最主要的稻米產地，也是日本生產力第三高的城市。</p>
+
+    </div>
+  </div>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (20).jpg"
+                     width=500px
+                >
+<figcaption>晚點似乎還有表演，演員在表演前就先幫大家導覽，可惜來不及看到</figcaption>
+</figure>
+<figure class="image-caption">
+<table><tr>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (18).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+<td><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (23).jpg"
+                      border=0 style="height:330px;"
+                ></td>
+</tr></table>
+</figure>
+<h3 id="晚餐"><a class="header-anchor" href="#晚餐"></a>晚餐</h3>
+<p>晚上ゆみこさん邀我們到家裡跟三人的家人一起吃飯，自從高中的教育旅行後，好久沒有踏入這種傳統的日式房子了。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (25).jpg"
+                     width=500px
+                >
+<figcaption>ゆみこさん的手藝真的強，不說還以為是餐廳的料理</figcaption>
+</figure>
+<p>大家都很和善，從踏入門內就開始熱情地跟我們搭話，期間一個大叔還一直講諧音梗搞笑，讓大家即使是第一次見面也絲毫沒有生疏感，話題也從未中斷過，從生活瑣事到彼此的過去，大家都愉快地分享自己的故事。沒想到在這異國的旅行也會有「家」的味道。</p>
+<figure class="image-caption">
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="20241130 (24).jpg"
+                     width=500px
+                >
+<figcaption>從沒想到那天在水戶搞錯車次能有如此收穫，真的是個奇妙的緣分</figcaption>
 </figure>]]></content>
+      <categories>
+        <category>旅遊</category>
+        <category>仙台旅</category>
+      </categories>
       <tags>
         <tag>交換</tag>
         <tag>旅遊</tag>
